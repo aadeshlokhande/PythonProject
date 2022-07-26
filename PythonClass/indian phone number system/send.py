@@ -1,0 +1,25 @@
+import pyautogui as pg 
+from time import sleep 
+
+sleep(3)
+for i in range(180):
+    # pg.click(1142,298)
+    # sleep(3)
+    # a,b = pg.locateCenterOnScreen("send.png")
+    # x, y = pg.locateOnScreen('send.png',confidance = 0.5)
+    # pg.click(int(x), int(y))
+    # pg.click(1142,416)
+    # pg.click(a,b)
+    print(pg.locateOnScreen("send.png", confidence=0.7))
+    sleep(2+4)
+    # pg.hotkey("ctrl","v")
+    # sleep(3+4)
+    # pg.press("enter")
+    # sleep(1+4)
+    # pg.press("esc")
+    # sleep(1+4)
+    # pg.press("esc")
+    # sleep(1+4)
+    # pg.scroll(-1)
+    # sleep(1+3)
+    # print(i)

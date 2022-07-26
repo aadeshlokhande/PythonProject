@@ -1,0 +1,1158 @@
+1) Let x be an integer which can take a value of 0 or 1. The statement if(x = =0) x = 1; else x = 0; is equivalent to which one of the following?
+
+x = 1 + x;
+x = 1 - x;
+x = x - 1;
+x = 1 % x;
+
+ans B
+
+
+
+
+
+
+2) What is required in each C program?
+
+The program must have at least one function.
+The program does not require any function.
+Input data
+Output data
+
+ans A 
+
+
+
+
+
+
+
+3) Consider the following variable declarations and definitions in C
+i) int var_9 = 1;
+ii) int 9_var = 2;
+iii) int _ = 3;
+
+Choose the correct statement w.r.t. above variables.
+
+Both i) and iii) are valid.
+Only i) is valid.
+Both i) and ii) are valid.
+All are valid.
+
+ans : A
+
+
+
+
+
+
+
+
+
+4) How many times CppBuzz.com is printed?
+
+int main()
+{
+while(1)
+{
+    printf("CppBuzz.com");
+}
+
+return 0;
+}
+
+1 time
+Compilation Error
+Infinite times
+Runtime Error
+
+ans C 
+
+
+
+
+
+
+
+
+5) What will this program print?
+
+main()  
+{  
+  int i = 2;  
+  {  
+    int i = 4, j = 5;  
+     printf("%d %d", i, j);  
+  }    
+  printf("%d %d", i, j);  
+}  
+
+4525
+2525
+4545
+None of the these
+
+ans A
+
+
+
+
+
+
+
+
+6) What is the output of this statement "printf("%d", (a++))"?
+
+The value of (a + 1)
+The current value of a
+Error message
+Garbage
+
+ans b 
+
+
+
+
+
+
+7) How many times will the following loop execute?
+for(j = 1; j <= 10; j = j-1)  
+
+Forever
+Never
+0
+1
+
+ans A 
+
+
+
+
+
+8) A pointer is a memory address. Suppose the pointer variable has p address 1000, and that p is declared to have type int*, and an int is 4 bytes long. What address is represented by expression p + 2?
+
+1002
+1004
+1006
+1008
+
+ans D 
+
+
+
+
+
+
+9) What is the result after execution of the following code if a is 10, b is 5, and c is 10?
+
+If ((a > b) && (a <= c))  
+        a = a + 1;  
+else  
+        c = c+1;  
+
+a = 10, c = 10
+a = 11, c = 10
+a = 10, c = 11
+a = 11, c = 11
+
+
+ans B 
+
+
+
+
+
+
+
+10) Which one of the following is a loop construct that will always be executed once?
+
+for
+while
+switch
+do while
+
+ans D 
+
+
+
+
+
+11) How many characters can a string hold when declared as follows?
+
+char name[20]: 
+
+18
+19
+20
+None of the these
+
+
+ans B
+
+
+
+
+12) What will the result of num variable after execution of the following statements?
+
+int num = 58;  
+num % = 11;  
+
+3
+5
+8
+11
+
+
+ans A 
+
+
+
+
+
+
+13) What is the maximum number of characters that can be held in the string variable char address line [40]?
+
+38
+39
+40
+41
+
+ans B 
+
+
+
+
+
+
+
+14) What will the result of num1 variable after execution of the following statements?
+int j = 1, num1 = 4;  
+while (++j <= 10)  
+{  
+  num1++;  
+}  
+
+11
+12
+13
+14
+
+
+ans c 13 
+
+
+
+
+
+
+
+15) Study the following statement
+
+#include <stdio.h>  
+    int main()  
+    {  
+        int *ptr, a = 10;  
+        ptr = &a;  
+        *ptr += 1;  
+        printf("%d,%d/n", *ptr, a);  
+    }  
+What will be the output?
+
+10, 10
+10, 11
+11, 10
+11, 11
+
+
+ans D 
+
+
+
+
+
+
+
+
+
+16) Given the following statement, what will be displayed on the screen?
+
+int * aPtr;  
+*aPtr = 100;  
+cout << *aPtr + 2;  
+
+100
+102
+104
+108
+
+
+ans B 
+
+
+
+
+
+
+
+
+17) Let p1 be an integer pointer with a current value of 2000. What is the content of p1 after the expression p1++ has been evaluated?
+
+2001
+2002
+2004
+2008
+
+ans C 
+
+
+
+
+
+
+18) Suppose that cPtr is a character pointer, and its current content is 300. What will be the new value in cPtr after the following assignment?
+
+cPtr = cPtr + 5;  
+
+305
+310
+320
+340
+
+ans A 
+
+
+
+
+
+
+
+
+19) Which is valid expression in c language?
+
+int my_num = 100,000;
+int my_num = 100000;
+int my num = 1000;
+int my num == 10000;
+
+ans b 
+
+
+
+
+
+
+
+
+20) What will be the output of this program?
+
+int main()      
+{      
+int a=10, b=20;        
+printf("a=%d b=%d",a,b);        
+a=a+b;      
+b=a-b;      
+a=a-b;      
+printf("a=%d b=%d",a,b);      
+return 0;    
+}     
+
+a = 20, b = 20
+a = 10, b = 20
+a = 20, b = 10
+a = 10, b = 10
+
+
+ans C 
+
+
+
+
+
+
+
+21) What does this statement mean?
+
+x - = y + 1;  
+
+x = x - y + 1
+x = -x - y - 1
+x = x + y - 1
+x = x - y - 1
+
+
+ans D 
+
+
+
+
+
+
+22) Study the following statement
+
+for (i = 3; i < 15; i + = 3)  
+{printf ("%d", i);  
+ ++i;  
+}  
+What will be the output?
+
+3 6 9 12
+3 6 9 12 15
+3 7 11
+3 7 11 15
+
+ans C 
+
+
+
+
+
+
+23) Study the following array definition
+
+int num[10] = {3, 3, 3};  
+Which of the following statement is correct?
+
+num[9] is the last element of the array num
+The value of num[8] is 3
+The value of num[3] is 3
+None of the above
+
+ans A 
+
+
+
+
+
+
+
+24) Array is a _________ data structure.
+
+Non-linear
+Primary
+Linear
+Data type
+
+ans c 
+
+
+
+
+
+
+
+
+25) Which of the following statement is correct about the C language?
+
+The C language is a binary language with some extra features.
+The C language is a high-level language with some low features.
+The C language is a mid-level language with some high features.
+The C language is a low-level language.
+
+ans C 
+
+
+
+
+
+
+
+
+26) In the following program fragment, s and b are two integers:
+
+b = s + b  
+s = b - s  
+b = b - s  
+What does it intend to do?
+
+Exchange the values of s and b
+Transfer the values of s and b
+Transfer the values of b and s
+Add or subtract the values of s and b
+
+
+ans A 
+
+
+
+
+
+
+27) Study the following statement
+
+printf ("%d", 9/5);  
+What will be the output of this statement?
+
+1.8
+1.0
+2.0
+None of the these
+
+
+ans D 
+
+
+
+
+
+
+
+28) Who defines the user-defined function?
+
+Compiler
+Computer
+Compiler library
+Users
+
+
+ans D 
+
+
+
+
+
+
+
+29) Which of the following functions is already declared in the "header file"?
+
+User-define function
+Built-in function
+C function
+None of the these
+
+ans B
+
+
+
+
+
+30) Which of the following operations cannot be performed in file handling?
+
+Open the file
+Read the file
+To write a file
+None of the these
+
+ans D 
+
+
+
+
+
+
+31) Which of the following is not an arithmetic operation?
+
+x * = 65;
+x / = 42;
+x % = 2;
+x ! = 56;
+
+ans D 
+
+
+
+
+
+
+
+32) Study the following program fragment
+
+char ch = 'Z'  
+What will store in ch?
+
+Z
+90
+91
+122
+
+
+ans B 
+
+
+
+
+
+
+
+33) Study the following program:
+
+main ()  
+{  
+  if(5 < '5')  
+        printf("5")  
+  else  
+        printf("Not equal to 5.")  
+}  
+What will be the output of this program?
+
+ENQ
+5
+I
+Not equal to 5
+
+
+
+ans B 
+
+
+
+
+
+
+
+
+34) Which of the following variable name is correct in c language?
+
+For
+for
+Basic salary
+hello.
+
+
+ans A 
+
+
+
+
+
+
+
+
+35) Which of the following header files is not used in C language?
+
+<assert.h>
+<ctype.h>
+<iostream.h>
+<locale.h>
+
+
+ans C 
+
+
+
+
+
+
+
+36) Which of the following declaration is incorrect in C language?
+
+scanf("%d%d", a, b);
+scanf("%d%d", a b);
+scanf("First %d Second %d", &a, &b);
+scanf(" %d%d", &x,&y);
+
+
+ans B 
+
+
+
+
+
+
+37) Study the following program:
+
+main ()  
+{  
+ char x;  
+ x = 'A' + 5;  
+ printf("%c", x);  
+}  
+What will be the output of this program?
+
+A + 5
+A
+5
+F
+
+
+
+ans D 
+
+
+
+
+
+
+
+
+
+38) Which one of the following operators is a unary operator in c language?
+
+&
+&&
+<<
+sizeof()
+
+
+
+ans D 
+
+
+
+
+
+
+
+
+39) What is the output of the following program?
+
+#include<stdio.h>
+
+main()
+{
+   int i = 1;
+   
+   while(i++<=5);
+       printf("%d ",i++);
+}
+4
+6
+2 6
+2 4
+
+
+ans B 
+
+
+
+
+
+
+
+
+40) A single line comment in C language source code can begin with _____
+
+;
+:
+/*
+//
+
+
+ans D 
+
+
+
+
+
+
+
+41) What is output of below program?
+
+int main()
+{
+ int i;
+ for(i=0; i<5; ++i++)
+ {
+   printf("Hello");
+ }
+ return 0;
+}
+(A) Hello is printed 5 times
+(B) Compilation Error
+(C) Hello is printed 2 times
+(D) Hello is printed 3 times
+
+
+ans B 
+
+
+
+
+
+
+
+
+42) What is the output of below program?
+int main()
+{
+ int i;
+
+ for(i = 0,i<5,i++)
+ {
+   printf("Hello");
+ }
+
+ return 0;
+}
+
+
+(A) Hello is printed 5 times
+(B) Compilation Error
+(C) Hello
+(D) Hello is printed 4 times
+
+
+ans B
+
+
+
+
+
+
+
+
+
+
+43) When C Language was invented?
+(A) 1970
+(B) 1972
+(C) 1978
+(D) 1979
+
+ans B 
+
+
+
+
+
+
+
+
+
+44) What is the meaning of below lines?
+void sum (int, int);
+
+
+sum is function which takes int arguments
+sum is a function which takes two int arguments and returns void
+it will produce compilation error
+Can't comment
+
+
+ans B 
+
+
+
+
+
+
+
+
+
+45) What should be the output:
+int main()
+{ 
+    int a = 10/3;
+    printf("%d",a); 
+    
+    return 0;
+}
+
+
+
+3.33
+3.0
+3
+0
+
+
+ans C 
+
+
+
+
+
+
+
+46) Which of the following is executed by Preprocess?
+#include<stdio.h>
+return 0
+void main(int argc , char ** argv)
+None of above
+
+
+
+ans A 
+
+
+
+
+
+
+
+
+47) 
+int main()
+{
+	int _ = 10;
+	int __ = 20;
+	int ___ = _ + __;
+	printf("__%d",___);
+	return 0;
+}
+
+
+
+Compilation Error
+Runtime Error
+__0
+__30
+
+
+ans D 
+
+
+
+
+
+
+
+
+
+48) How many times CppBuzz.com is printed on console?
+int main()
+{
+int a = 0;
+while(a==0)
+{
+    printf("CppBuzz.com");
+}
+
+return 0;
+}
+
+
+0 times
+Infinite times (Untill Stack is overflow)
+1 time
+Nothing is printed
+
+
+ans B 
+
+
+
+
+
+
+
+
+
+
+49) What is printed on console?
+int main()
+{
+int a = 0;
+while(a)
+{
+    printf("CppBuzz.com");
+}
+
+return 0;
+}
+
+CppBuzz.com is printed Infinite times
+CppBuzz.com is printed 1 time only
+Nothing is printed
+Program gives error
+
+ans C 
+
+
+
+
+
+
+
+
+
+
+
+50) 
+int main()
+{
+     int x = 10;
+	{
+	    int x = 0;
+	    printf("%d",x);
+	}
+    return 0;
+}
+
+10
+Compilation Error
+0
+Undefined
+
+
+ans C 
+
+
+
+
+
+
+
+
+
+Which programming language is more faster among these?
+(A) Java
+(B) PHP
+(C) C
+(D) Visual Basic
+
+ans C 
+
+
+
+
+
+
+
+Which of the following ways are correct to comment out preprocessing of any line?
+(A) -- #include<stdio.h>
+(B) // #include<stdio.h>
+(C) ''#include<stdio.h>
+(D) ##include<stdio.h>
+
+ans B 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What feature makes C++ so powerful?
+
+Easy implementation
+Reusing the old code
+Easy memory management
+All of the above
+
+ans D 

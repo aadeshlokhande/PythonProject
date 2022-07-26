@@ -1,0 +1,7 @@
+ff= open("numbers.txt",'r')
+txt = ff.read()
+ff.close()
+ff= open("numbers.txt",'w')
+txt  = txt.replace('\n',"',\n'")
+ff.write(txt)
+ff.close()

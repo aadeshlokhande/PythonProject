@@ -1,0 +1,17 @@
+Baics
+variable
+data type
+operators
+if else
+nested if else 
+if else ladder 
+for loop
+nested for loop
+while loop 
+string
+list
+tuple
+set 
+function
+recursion
+function overloading

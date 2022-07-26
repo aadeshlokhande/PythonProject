@@ -1,0 +1,24 @@
+introduction
+print("Hello world")
+vaariable
+data type
+    >string
+    >tuple = unchangable
+    a = (12,43,54,"adesh",54.76)
+
+
+    >list = changable
+    a = [12,43,54,"adesh",54.76]
+
+    >dictionary =  key value pair
+    a = {"shivani":4589273485, "aadesh":946308567}
+    print(a["shiva.ni"])
+
+operators
+if else                 condtion check
+nested if               multiple condition satisfied
+if else ladder          one condition satisfied from all condition
+for loop
+nested for loop
+while loop
+functions

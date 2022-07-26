@@ -1,0 +1,5 @@
+try:
+    print(index)
+
+    except exception as e:
+    print(e)
