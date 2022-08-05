@@ -1,0 +1,311 @@
+Introduction to Programming and Data Structures
+C Programming – Features & The First C Program
+Introduction to Variables
+Variable Naming Conventions
+Basic Output Function – printf
+Fundamental Data Types − Integer (Part 1)
+Fundamental Data Types − Integer (Part 2)
+Exceeding The Valid Range of Data Types
+Fundamental Data Types − Character
+Fundamental Data Types − Float, Double & Long Double
+C Programming (Important Questions Set 1)
+Scope of Variables - Local vs Global
+Variable Modifiers − Auto & Extern
+Variable Modifiers − Register
+Variable Modifiers − Static
+Constants in C (Part 1)
+Constants in C (Part 2)
+C Programming (Important Questions Set 2)
+Basic Input Function – scanf
+C Programming (Important Questions Set 3)
+Introduction to Operators in C
+Arithmetic Operators in C
+Increment and Decrement Operators in C (Part 1)
+Increment and Decrement Operators in C (Part 2)
+Relational Operators in C
+Logical Operators in C
+Bitwise Operators in C (Part 1)
+Bitwise Operators in C (Part 2)
+Bitwise Operators in C (Part 3)
+Bitwise Operators in C (Part 4)
+Assignment Operators in C
+Conditional Operator in C
+Comma Operator in C
+Precedence and Associativity of Operators
+Operators in C (Solved Problem 1)
+Operators in C (Solved Problem 2)
+C Programming (Rapid Fire Quiz-1)
+Conditionals (if-else, Nested if and else if)
+Conditionals (Switch)
+for and while Loops
+do-while Loop
+Loop Control Statements − break and continue
+Conditionals and Loops (Solved Problem 1)
+Conditionals and Loops (Solved Problem 2)
+Conditionals and Loops (Solved Problem 3)
+Conditionals and Loops (Solved Problem 4)
+Conditionals and Loops (Solved Problem 5)
+Special Programs in C − Pyramid of Stars
+Special Programs in C − Check If The Number Is Palindrome Number
+Special Programs in C− Check If The Number Is Armstrong Number
+Special Programs in C− Check If The Number Is Strong Number
+Special Programs in C − Check If The Number Is Prime Number
+Special Programs in C − Adding Two Numbers Without Using The Plus Operator
+Special Programs in C − Adding Two Numbers Without Using The Plus Operator (Half Adder Method)
+Special Programs in C − Fibonacci Series
+Special Programs in C − Floyd's Triangle
+Special Programs in C − Binary to Decimal Conversion
+Special Programs in C − Calculating Power of an Integer
+Special Programs in C − Check Leap Year
+Special Programs in C − Check If The Number Is Perfect Number
+Introduction to Functions in C
+Function Declaration in C
+Function Definition in C
+Call By Value & Call By Reference in C
+Functions (Solved Question 1)
+Functions (Solved Question 2)
+Functions (Solved Question 3)
+Static Functions in C
+Static and Dynamic Scoping (Part-1)
+Static and Dynamic Scoping (Part-2)
+Static and Dynamic Scoping (Part-3)
+Static and Dynamic Scoping (Part-4)
+Static and Dynamic Scoping (Solved Question 1)
+Static and Dynamic Scoping (Solved Question 2)
+Recursion in C
+How to write Recursive Functions
+Types of Recursion (Part 1) _ Direct & Indirect Recursion
+Types of Recursion (Part 2) _ Tail & Non-tail Recursion
+Advantage and Disadvantage of Recursion
+Recursion (Solved Problem 1)
+Recursion (Solved Problem 2)
+Recursion (Solved Problem 3)
+Recursion (Solved Problem 4)
+Recursion (Solved Problem 5)
+C Programming (Rapid Fire Quiz-2)
+Definition of Array
+Declaration of Array
+Accessing Array Elements
+Initializing an Array
+Designated Initialization of Arrays
+Arrays in C (Solved Problem 1)
+Arrays in C (Solved Problem 2)
+Count Array Elements using sizeof() Operator
+Introduction to Multidimensional Arrays
+Introduction to Two-Dimensional (2D) Arrays
+Introduction to Three-Dimensional (3D) Arrays
+Multidimensional Arrays (Solved Problem)
+C Program for Matrix Multiplication (Part 1)
+C Program for Matrix Multiplication (Part 2)
+Constant Arrays in C
+Variable Length Arrays in C
+Introduction to Pointers in C
+Declaring & Initializing Pointers in C
+Value of Operator in Pointers
+Pointer Assignment
+Pointer Application (Finding the Largest & Smallest Elements in an Array)
+Returning Pointers
+Pointers (Important Questions)
+Pointer Arithmetic (Addition)
+Pointer Arithmetic (Subtraction)
+Pointer Arithmetic (Increment & Decrement)
+Pointer Arithmetic (Comparing the Pointers)
+Pointers (Program 1) _ Sum of Array Elements using Pointers
+Using Array Name as a Pointer
+Pointers (Program 2) _ Reverse a Series of Numbers using Pointers
+Passing Array as an Argument to a Function
+Using Pointers to Print 2D Arrays
+Processing the Multidimensional Array Elements (or) Address Arithmetic of Multidimensional Arrays
+Pointers (Program 3)
+Pointers (Program 4)
+Pointer Pointing to an Entire Array
+Pointer Pointing to an Entire Array (Solved Problem)
+Pointers (Program 5)
+Pointers (Program 6)
+Pointers (Program 7)
+Pointers (Program 8)
+Pointers (Program 9)
+Basics of String Literals
+Storing the String Literals
+Performing Operations on String Literals
+String Literal vs. Character Constant
+Declaring and Initializing String Variables
+Writing Strings using printf and puts Functions
+Reading Strings using scanf and gets Functions
+Designing The Input Function using getchar()
+putchar() Function in C
+Strings (Solved Problem 1)
+C String Library and String Copy Function - strcpy()
+String Length Function - strlen()
+String Concatenate Functions - strcat() & strncat()
+String Comparison Function - strcmp()
+Array of Strings
+Strings (Solved Problem 2)
+Strings (Solved Problem 3)
+Strings (Solved Problem 4)
+Strings (Solved Problem 5)
+Strings (Solved Problem 6)
+Function Pointers in C
+Application of Function Pointers in C
+Introduction to Structures in C
+Declaring Structure Variables
+Structure Types (Using Structure Tags)
+Structure Types (Using typedef)
+Initializing & Accessing the Structure Members
+Designated Initialization in Structures
+Declaring an Array of Structure
+Pointer to Structure Variable
+Structure Padding in C
+Structure Packing in C
+Structures in C (Solved Problem 1)
+Structures in C (Solved Problem 2)
+Structures in C (Solved Problem 3)
+Introduction to Unions in C
+Unions in C (Solved Problem 1)
+Application of Unions (Part 1)
+Application of Unions (Part 2)
+Enumerations in C
+Program to Find Area of Rectangle Using Structures
+Structures & Unions in C (Solved Problem)
+File Handling _ Chapter-14 _ C Programming _ nesoacademy.org
+Introduction to Data Structures
+Data Types vs. Abstract Data Types
+Data Structure Definition & Advantages
+Types of Data Structures
+Basics of Asymptotic Analysis (Part 1)
+Basics of Asymptotic Analysis (Part 2)
+Basics of Asymptotic Analysis (Part 3)
+Basics of Asymptotic Analysis (Part 4)
+Basics of Asymptotic Analysis (Part 5)
+Guidelines for Asymptotic Analysis (Part 1)
+Guidelines for Asymptotic Analysis (Part 2)
+Asymptotic Analysis (Solved Problem 1)
+Asymptotic Analysis (Solved Problem 2)
+Asymptotic Analysis (Solved Problem 3)
+Understanding the Void Pointers
+Understanding the Null Pointers
+Understanding the Dangling Pointers
+Understanding the Wild Pointers
+Basics of Dynamic Memory Allocation
+Dynamic Memory Allocation using malloc()
+Dynamic Memory Allocation using calloc()
+Dynamic Memory Allocation using realloc()
+Releasing the Dynamically Allocated Memory using free()
+Structures and Functions (Part 1)
+Structures and Functions (Part 2)
+Structures and Functions (Part 3)
+Structures and Functions (Part 4)
+Structures and Functions (Part 5)
+Structures and Functions (Part 6)
+Self Referential Structures
+Introduction to Linked List
+Array vs. Single Linked List (In Terms of Representation)
+Creating the Node of a Single Linked List
+Creating a Single Linked List (Part 1)
+Creating a Single Linked List (Part 2)
+Traversing a Single Linked List (Counting the Nodes)
+Traversing a Single Linked List (Printing the Data)
+Traversing the List (Linked List vs. Arrays)
+Single Linked List (Inserting a Node at the End)
+Insertion at the End (Linked List vs. Array) - Part 1
+Insertion at the End (Linked List vs. Array) - Part 2
+Single Linked List (Inserting a Node at the Beginning)
+Inserting the Data at the Beginning of Single Linked Lists (Possible Mistake)
+Inserting the Data at the Beginning of Single Linked List (2nd Method)
+Inserting the Data at the Beginning (Singly Linked List vs. Array)
+Single Linked List (Inserting a Node at a Certain Position)
+Insertion at a Certain Position (Singly Linked List vs. Arrays) - Part 1
+Insertion at a Certain Position (Singly Linked List vs. Arrays) - Part 2
+Single Linked List (Deleting the First Node)
+Single Linked List (Deleting the Last Node)
+Single Linked List (Deleting the Last Node using Single Pointer)
+Deletion at the End (Singly Linked List vs. Array)
+Deletion at the Beginning (Single Linked List vs. Array)
+Single Linked List (Deleting the Node at a Particular Position)
+Deleting the Entire Single Linked List
+Reverse a Single Linked List
+Singly Linked List (Solved Problem 1)
+Singly Linked List (Solved Problem 2)
+Singly Linked List (Solved Problem 3)
+Singly Linked List (Solved Problem 4)
+Singly Linked List (Solved Problem 5)
+Singly Linked List (Solved Problem 6)
+Rapid Fire Quiz (Singly Linked List)
+Introduction to Doubly Linked List
+Doubly Linked List (Inserting a Node in an Empty List)
+Doubly Linked List (Insertion at the Beginning)
+Doubly Linked List (Insertion at the End)
+Doubly Linked List (Insertion between the Nodes) - Part 1
+Doubly Linked List (Insertion between the Nodes) - Part 2
+Creating an Entire Doubly Linked List
+Doubly Linked List (Deleting the First Node)
+Doubly Linked List (Deleting the Last Node)
+Doubly Linked List (Deleting the Intermediate Node)
+Reversing the Doubly Linked List
+Doubly Linked List (Solved Problem 1)
+Doubly Linked List (Solved Problem 2)
+Why Doubly Linked List?
+Rapid Fire Quiz (Doubly Linked List)
+Introduction to Circular Linked List
+Circular Singly Linked List (Insertion at the Beginning)
+Traversing a Circular Singly Linked List
+Circular Singly Linked List (Insertion at the End)
+Circular Singly Linked List (Insertion between the Nodes)
+Creating a Circular Singly Linked List
+Circular Singly Linked List (Deleting the First Node)
+Circular Singly Linked List (Deleting the Last Node)
+Circular Singly Linked List (Deleting the Intermediate Node)
+Circular Singly Linked List (Counting the Number of Elements)
+Circular Singly Linked List (Searching an Element)
+Circular Doubly Linked List (Insertion at the Beginning)
+Circular Doubly Linked List (Insertion at the End)
+Circular Doubly Linked List (Insertion between the Nodes)
+Circular Doubly Linked List (Deleting the First Node)
+Circular Doubly Linked List (Deleting the Last Node)
+Circular Doubly Linked List (Deleting the Intermediate Node)
+Sorted Singly Linked List (Inserting a New Element)
+Application of Linked List (Polynomial Arithmetic) - Part 1
+Application of Linked List (Polynomial Arithmetic) - Part 2
+Application of Linked List (Addition of Two Polynomials)
+Application of Linked List (Multiplication of Two Polynomials)
+Application of Linked List (Multiplication of Two Polynomials) - Improvements
+Adding Two Numbers using Linked Lists - Part 1
+Adding Two Numbers using Linked Lists - Part 2
+Adding Two Numbers using Linked Lists - Part 3
+Introduction to Stacks
+Array Implementation of Stacks (Part 1)
+Array Implementation of Stacks (Part 2)
+Array Implementation of Stacks (Part 3)
+Array Implementation of Stacks (Part 4)
+Stacks (Important Questions) – Set 1
+Stacks (Important Questions) – Set 2
+Stacks (Program 1) – Part 1
+Stacks (Program 1) – Part 2
+Stacks (Program 1) – Part 3
+Stacks (Program 2) – Part 1
+Stacks (Program 2) – Part 2
+Stacks (Program 3)
+Linked List Implementation of Stacks (Part 1)
+Linked List Implementation of Stacks (Part 2)
+Linked List Implementation of Stacks (Part 3)
+Stacks (Program 4) – Part 1
+Stacks (Program 4) – Part 2
+Stacks (Program 4) – Part 3
+Stacks (Program 4) – Part 4
+Stacks (Program 4) – Part 5
+Stacks (Program 4) – Part 6
+Stacks (Program 4) – Part 7
+Stacks (Program 5)
+Application of Stacks (Nested Brackets) - Part 1
+Application of Stacks (Nested Brackets) - Part 2
+Application of Stacks (Infix to Postfix) - Part 1
+Application of Stacks (Infix to Postfix) - Part 2
+Application of Stacks (Infix to Postfix) - Part 3
+Application of Stacks (Infix to Postfix) - Part 4
+Application of Stacks (Infix to Postfix) - Part 5
+Application of Stacks (Infix to Postfix) - Part 6
+Application of Stacks (Infix to Postfix) - Part 7
+Application of Stacks (Infix to Postfix) - Part 8
+Stacks (GATE Problems) - Set 1
+Stacks (GATE Problems) - Set 2
+Queues _ Chapter-7 _ Data Structures _ nesoacademy.org
