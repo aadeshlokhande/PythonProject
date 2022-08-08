@@ -1,0 +1,103 @@
+1) Introduction to HTML, CSS, JavaScript & How websites work?
+2) HTML Tutorial: Installing VS Code & Live Server
+3) HTML Tutorial: Basic Structure of a Website
+4) HTML Tutorial: Title, Script, Link & Meta Tags
+5) HTML Tutorial: Headings & Paragraphs
+6) HTML Tutorial: Img and Anchor tags
+7) HTML Tutorial: Lists and Tables
+8) HTML Tutorial: Forms & Input Tags
+9) HTML Tutorial: Inline & Block Elements
+10) HTML Tutorial: Ids & Classes in HTML
+11) HTML Tutorial: HTML Entities
+12) HTML Tutorial: Semantic Tags in HTML
+13) CSS Tutorial: Introduction to CSS
+14) CSS Tutorial: Inline, Internal & External CSS
+15) CSS Tutorial: Selectors in CSS
+16) CSS Tutorial: Using Chrome Developer Tools
+17) CSS Tutorial: Fonts In CSS
+18) CSS Tutorial: Colors In CSS
+19) CSS Tutorial: Borders and Backgrounds
+20) CSS Tutorial: CSS Box Model, Margin and Padding
+21) CSS Tutorial: Float & Clear Explained
+22) CSS Tutorial: Styling Links & Buttons
+23) CSS Tutorial: Creating a Navigation Menu
+24) CSS Tutorial: CSS Display Property
+25) CSS Tutorial: Position absolute, relative, fixed and sticky in CSS
+26) Project 1: Creating a Gym Website Using HTML5 & CSS3
+27) CSS Tutorial: Visibility & z-index Explained
+28) CSS Flexbox Tutorial in Hindi
+29) CSS Tutorial: em, rem, vh and vw units + Responsive design Explained
+30) CSS Tutorial: Media Queries Explained
+31) CSS Tutorial: More on CSS Selectors
+32) CSS Tutorial: Attribute & nth child pseudo Selectors
+33) CSS Tutorial: Before and After Pseudo Selectors
+34) CSS Tutorial: Box Shadow and Text Shadow
+35) CSS Tutorial: Variables & Custom Properties
+36) CSS Tutorial: Creating Animations & Keyframes
+37) CSS Tutorial: Creating Transitions in CSS
+38) CSS Tutorial: Transform property in CSS
+39) Creating Fully Responsive Website Project Using HTML & CSS in Hindi
+40) CSS Grid: Introduction & Creating A Basic Grid
+41) CSS Grid: Creating Rows & Gaps in Grid
+42) CSS Grid: Spanning Multiple Rows and Columns in Grid
+43) CSS Grid: Autofit & MinMax
+44) CSS Grid: Creating Layouts Using Grid Template Area
+45) Using Media Queries with CSS Grid
+46) Introduction to JavaScript for Frontend & Backend
+47) Writing in-browser JavaScript and Developer Console
+48) Variables, Data Types and Operators in JavaScript
+49) Strings in JavaScript
+50) String Functions in JavaScript
+51) Scope, If-else Conditionals & Switch Case in JavaScript
+52) Arrays & Objects in JavaScript
+53) Functions in JavaScript
+54) JavaScript Tutorial: Interaction - Alert, Prompt, Confirm
+55) JavaScript Tutorial: for, while, forEach, Do While Loops
+56) JavaScript Tutorial: Navigating The DOM
+57) JavaScript Tutorial: Events & Listening to Events
+58) JavaScript Tutorial: setInterval & setTimeOut
+59) JavaScript Tutorial: Date & Time In JavaScript
+60) JavaScript Tutorial: Arrow Functions In JavaScript
+61) JavaScript Tutorial: Math Object In JavaScript
+62) JavaScript Tutorial: Working with JSON in JavaScript
+63) Backend Tutorial: Node.Js Introduction and Installation
+64) Backend Tutorial: Node.Js Modules with Examples
+65) Backend Tutorial: Blocking vs Non-Blocking execution
+66) Backend Tutorial: Serving HTML Files using NodeJs
+67) Backend Tutorial: Creating a Custom Backend Using NodeJs
+68) Backend Tutorial: Creating Custom Modules in Node Using NodeJs
+69) Backend Tutorial: npm: The Node Package Manager Tutorial
+70) Backend Tutorial: Installing Express and Postman
+71) Backend Tutorial: Writing our first Express App
+72) Backend Tutorial: Static Files & Installing Pug template engine
+73) Backend Tutorial: Using raw HTML in Pug template engine
+74) Backend Tutorial: Finishing Off NodeJs Backend of our Gym Website
+75) Backend Tutorial: Dance Website Using Pure Pug + NodeJs
+76) Backend Tutorial: Designing Cards Using Pure Pug + NodeJs
+77) Backend Tutorial: Continuing Dance Website using Pug + NodeJs
+78) Backend Tutorial: Adding Sponsor Section using Pug + NodeJs
+79) Backend Tutorial: Adding a Contact Form using Pug + NodeJs
+80) MongoDb Tutorial: Introduction to MongoDb + Installation
+81) MongoDb Tutorial: Inserting data into the Mongo Database
+82) MongoDb Tutorial: Searching/Querying data from the Mongo Database
+83) MongoDb Tutorial: Deleting data from the Mongo Database
+84) MongoDb Tutorial: Updating data from the Mongo Database
+85) MongoDb Tutorial: MongoDb Compass & Installing Mongoose
+86) MongoDb Tutorial: Using Mongoose in NodeJs
+87) Plotting CoronaVirus Cases On World Map - Interactive Dashboard Using JavaScript & MapBox
+88) Backend Tutorial: Saving Data To The Database Using Pug + NodeJs
+89) Hosting Tutorial: Where to Host your Website?
+90) Hosting Tutorial: Creating Our First VPS
+91) Hosting Tutorial: Installing Putty + Basic Linux Commands
+92) Hosting Tutorial: Installing Apache2 Web Server on a VPS
+93) Hosting Tutorial: CoronaVirus Information Website With Hosting
+94) Hosting Tutorial: Using Filezilla & WinSCP to upload Files
+95) Hosting Tutorial: Linking Domain to the Web Hosting Server
+96) Hosting Tutorial: Host Multiple Websites On One Single Hosting Server
+97) Hosting Tutorial: Deploy NodeJs Apps in Production on Linux VPS
+98) Installing MongoDb & Hosting our Dance Website on Ubuntu VPS
+99) Get a Free https SSL Certificate For Your Domain on Ubuntu VPS
+100) Git Tutorial: How to Upload your Projects to Git & GitHub
+101) Transparent Login Form using HTML and CSS
+102) I Created a Realtime Chat Application Using NodeJs and SocketIO
+103) Create a Responsive Website Using HTML, CSS & JavaScript in Hindi 

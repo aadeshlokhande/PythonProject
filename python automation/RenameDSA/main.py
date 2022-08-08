@@ -2,7 +2,7 @@ import pyautogui as pg
 from time import sleep 
 a = 0
 
-file = open("data.txt","r")
+file = open("web.txt","r")
 data = file.read().split("\n")
 file.close() 
 
@@ -17,8 +17,10 @@ for name in data:
     pg.hotkey("ctrl","x")
     sleep(1)
     for char in name:
-        if(char.lower() in "abcdefghijklmnopqrstuvwxyz 1234567890"):
+        if(char.lower() in "abcdefghijklmnopqrstuvwxy "):
             pg.typewrite(char)
+        else :
+            pg.typewrite(" ")
     sleep(1)
     pg.click(1454,96,interval=1)
     pg.press("f2")
@@ -26,7 +28,7 @@ for name in data:
     pg.hotkey("ctrl","a")
     pg.hotkey("ctrl","x")
     a += 1
-    pg.typewrite(f"{a}) {name.upper()}.mp4",0.06)
+    pg.typewrite(f"{name.upper()}.mp4",0.06)
     pg.press("enter")
 
 
