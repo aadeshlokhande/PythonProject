@@ -10,4 +10,4 @@ for folder in folders:
     os.system(f"cd /home/coder/Documents/MyProjects/{folder}")
     os.system(f'git status && git add . && git commit -m "{Date}" && git push -u origin main')
 
-# cd /home/coder/Documents/MyProjects/Python\ Projects/python\ automation/GitManage
+# cd /home/coder/Documents/MyProjects/Python\ Projects/python\ automation/GitManage && python3 main.py
