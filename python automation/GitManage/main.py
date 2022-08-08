@@ -7,6 +7,7 @@ today = date.today()
 Date = today.strftime("%d-%m-%Y")
 
 for folder in folders:
+    print(folder)
     os.system(f"cd /home/coder/Documents/MyProjects/{folder}")
     os.system(f'git status && git add . && git commit -m "{Date}" && git push -u origin main')
 
