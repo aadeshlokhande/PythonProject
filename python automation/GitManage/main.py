@@ -8,4 +8,4 @@ Date = today.strftime("%d-%m-%Y")
 
 for folder in folders:
     os.system(f"cd /home/coder/Documents/MyProjects/{folder}")
-    os.system('git status && git add . && git commit -m "{Date}" && git push -u origin main')
+    os.system(f'git status && git add . && git commit -m "{Date}" && git push -u origin main')
