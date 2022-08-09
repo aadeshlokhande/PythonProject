@@ -12,4 +12,4 @@ for folder in folders:
     os.system("cd")
     print("#########################################################################\n\n")
 
-# cd /home/coder/Documents/MyProjects/Python\ Projects/python\ automation/GitManage && python3 main.py
+# cd /home/coder/Documents/MyProjects/Python\ Projects/python\ automation/GitManage && python3 main.py && cd
