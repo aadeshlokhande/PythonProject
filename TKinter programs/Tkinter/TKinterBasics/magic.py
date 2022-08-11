@@ -15,7 +15,7 @@ def binaryToDecimal(binary):
         exit()
 
 mainbinary = ""
-
+101000
 def yes():
     global mainbinary
     mainbinary = "1" + mainbinary
@@ -36,7 +36,6 @@ def show():
         "16, 17, 18, 19, 20,\n21, 22, 23, 24, 25,\n26, 27, 28, 29, 30,\n31, 48, 49, 50, 51,\n52, 53, 54, 55, 56,\n57, 58, 59, 60.",
         "32, 33, 34, 35, 36,\n37, 38, 39, 40, 41,\n42, 43, 44, 45, 46,\n47, 48, 49, 50, 51,\n52, 53, 54, 55, 56,\n57, 58, 59, 60."]
 
-    # shownums.configure(text = "", font = "lucida 16 bold")
     subtitletxt.configure(text="Don't Forget Your Number", font="lucida 16 bold")
     if i < 6:
         shownums.configure(text=list[i])
@@ -48,9 +47,6 @@ def show():
 
 root = Tk()
 root.title("Guess The Number")
-# root.geometry("365x430")
-# root.minsize(365, 430)
-# root.maxsize(365, 430)
 
 # top frame
 frameTop = Frame(root)

@@ -189,7 +189,6 @@ def sample_responses(input_text,msgSenderData):
         text = str(TextBlob(line).correct())
         translator= Translator(to_lang="hi",from_lang='en')
         translation = translator.translate(text)
-
         return translation
 
     if "rev" in user_message:
