@@ -40,6 +40,6 @@ elif(number<0):
 else:
     print("number is zero")
     
-###################HomeWork#################
+################### HomeWork #################
 # get value from user and print weekdays
 # get value from user and print month name
