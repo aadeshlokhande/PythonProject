@@ -20,3 +20,6 @@ if(age>18):
     print("you can drive")
 else:
     print("you can't drive")
+
+
+# awaj yet ahe ka ?
