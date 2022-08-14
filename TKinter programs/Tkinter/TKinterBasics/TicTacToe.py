@@ -280,7 +280,6 @@ btnNewGame.grid(row =1, column = 0,padx = 10, pady = 10)
 
 btn1 = Button(LeftFrame, text = " ", font = "times 26 bold", height = 3,width =8, bg = "gainsboro",command = lambda:checker(btn1))
 btn1.grid(row =1, column = 0, sticky = S+N+E+W)
-# btn1.bind("<button-1>", checker)
 
 
 btn2 = Button(LeftFrame, text = " ", font = "times 26 bold", height = 3,width =8, bg = "gainsboro",command = lambda:checker(btn2))
