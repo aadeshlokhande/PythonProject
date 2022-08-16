@@ -65,5 +65,3 @@
 #             print("try in another college")
 # else:
 #     print("bhag ja bhikmange")
-
-             
