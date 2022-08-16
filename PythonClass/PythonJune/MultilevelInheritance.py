@@ -21,7 +21,6 @@ class Son(Father):
     def son(self):
         print("Tappu")
 
-
 # obA = Grandpa()
 # obA.grandpa()
 
