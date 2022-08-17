@@ -52,4 +52,3 @@ else:
 
 # get 2 values from user and print greater number 
 # get 3 angles from user and check its triangle or not 
-
