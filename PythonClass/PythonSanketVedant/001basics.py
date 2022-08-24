@@ -17,7 +17,7 @@
 # data type 
 
 # int -   12,43,6,85,24,68,-34,-456
-# float - 3.14,34.5363, 15.5, 5.6,1.5
+# float - 3.14,34.5363, 15.5, 5.6, -1.5
 # string - "aadesh",'aadesh','''aadesh''',"""aadesh"""
 
 # a = 29+1
@@ -29,9 +29,31 @@
 # print(type(b))
 
 
-
 # print(a+b)
 # c = "aadesh" + "lokhande"
 # print(c)
 # print(type(c))
 
+# =============================================
+
+# a = 10
+# print(type(a))
+# a = str(a)
+# print(int(a) + 2)
+
+a = float(12)
+print(a)
+# identifier
+
+# a = 87
+# age = 87
+# aadeshage = 98
+# aadeshnumber = 874263826528
+
+# 1) 12brothers, 7cities,21rollnumber this are not allowed
+# 2) aadesh_lokhande = 12394, _name, name_ , roll_number
+# 3) a = 10,A = 20,
+# age = 10
+# Age = 20
+# AGE = 30
+# 4) For = 10
