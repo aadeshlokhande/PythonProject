@@ -41,8 +41,8 @@
 # a = str(a)
 # print(int(a) + 2)
 
-a = float(12)
-print(a)
+# a = float(12)
+# print(a)
 # identifier
 
 # a = 87
@@ -57,3 +57,17 @@ print(a)
 # Age = 20
 # AGE = 30
 # 4) For = 10
+
+
+# 1) we cant start identifier name with digit
+# 7cities, 21rollnumber,16age this are not allowed
+# 2) we can use underscore(_)
+# roll_number, name, name
+# 3) identifier names are case sensitive
+# a = 10 
+# A = 20
+# age = 10 
+# Age = 20
+# AGE = 30
+# 4) we cant use keyword as a identifier 
+# goto = 20
