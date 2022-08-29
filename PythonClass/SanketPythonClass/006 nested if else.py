@@ -65,3 +65,16 @@
 #             print("try in another college")
 # else:
 #     print("bhag ja bhikmange")
+
+# ************************************
+
+num = int(input("Enter a number = "))
+
+if(num%2==0):
+    print("Its divisible by 2")
+    if(num%3==0):
+        print("Its divisible by 3")
+    else:
+        print("its not divisible by 3")
+else:
+    print("its not divisible by 2")
