@@ -4,13 +4,13 @@
 
 # \t - horizontal tab
 
-# print("\thello, sanket dakhale")
-# print("h\tello, sanket dakhale")
-# print("he\tllo, sanket dakhale")
-# print("hel\tlo, sanket dakhale")
-# print("hell\to, sanket dakhale")
-# print("hello\t, sanket dakhale")
-# print("hello,\t sanket dakhale")
+print("\thello, sanket dakhale")
+print("h\tello, sanket dakhale")
+print("he\tllo, sanket dakhale")
+print("hel\tlo, sanket dakhale")
+print("hell\to, sanket dakhale")
+print("hello\t, sanket dakhale")
+print("hello,\t sanket dakhale")
 
 
 # keywords - reserve words
