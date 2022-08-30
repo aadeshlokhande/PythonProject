@@ -47,19 +47,19 @@
 
 
 # assignment operator
-a = 10
-print(a)
-# # a = a + 2
-a += 2
-print(a)
-a -= 2
-print(a)
-a *= 2
-print(a)
-a /= 2
-print(a)
-a %= 2
-print(a)
+# a = 10
+# print(a)
+# # # a = a + 2
+# a += 2
+# print(a)
+# a -= 2
+# print(a)
+# a *= 2
+# print(a)
+# a /= 2
+# print(a)
+# a %= 2
+# print(a)
 
 # ================ Homework ==============
 # get 2 values from user and print add
@@ -69,3 +69,7 @@ print(a)
 # get 2 values from user and print mod
 
 # area of cricle = pi * r * r
+
+r  = float(input("Enter a rad = "))
+area = 3.14 * r * r 
+print("Area of circle=",area)
