@@ -46,21 +46,24 @@
 
 
 
-paise = int(input("Enter your budget = "))
-if(paise>5000):
-    frients = int(input("sobat kiti friends ahet = "))
-    if(frients>4):
-        permission = input("parents ni permission dili ahe ka = ")
-        if(permission=="yes"):
-            print("tumhi goa fhirayla jau shakta")
-        else:
-            print("tumhi goa fhirayla jau nhi shakt")
-    else:
-        abc = input("tumchya soba tumche parents ahet ka = ")
-        if(abc=="yes"):
-            print("tumhi goa jau shakta")
-        else:
-            print("ghari bs chup chap")
-else:
-    print("bhag ja bhikmange")
+# paise = int(input("Enter your budget = "))
+# if(paise>5000):
+#     frients = int(input("sobat kiti friends ahet = "))
+#     if(frients>4):
+#         permission = input("parents ni permission dili ahe ka = ")
+#         if(permission=="yes"):
+#             print("tumhi goa fhirayla jau shakta")
+#         else:
+#             print("tumhi goa fhirayla jau nhi shakt")
+#     else:
+#         abc = input("tumchya soba tumche parents ahet ka = ")
+#         if(abc=="yes"):
+#             print("tumhi goa jau shakta")
+#         else:
+#             print("ghari bs chup chap")
+# else:
+#     print("bhag ja bhikmange")
 
+
+# ---------------------------------------
+# get 3 values from user and print greatest number 
