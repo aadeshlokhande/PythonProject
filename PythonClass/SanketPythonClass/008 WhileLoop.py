@@ -30,3 +30,4 @@
 #     num = int(input("Enter a number = "))
 #     sum = sum + num 
 # print("Total sum =",sum)
+
