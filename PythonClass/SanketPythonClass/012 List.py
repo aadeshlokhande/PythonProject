@@ -1,0 +1,16 @@
+# list - mutable
+# a = ["tamater", 'wange', 'aalu']
+# print(a)
+# print(type(a))
+# print(len(a))
+# a.append("bhendi")
+# a.insert(2, "palak")
+# a.clear()
+# a.remove("wange")
+# a.pop(1)
+# c = a.index('wange')
+# print(c)
+# print(a)
+# a.reverse()
+# a.sort()
+# print(a)

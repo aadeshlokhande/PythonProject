@@ -42,5 +42,13 @@
 # F-string 
 # name = input("enter your name = ")
 # age = int(input("Enter your age = "))
-# print("Hello my name is",name,"and my age is",age,"year old")
-# print(f"my name is {name} and my age is {age}")
+# a = "Hello my name is",name,"and my age is",age,"year old"
+# print(a)
+# b = f"my name is {name} and my age is {age}"
+# print(b)
+
+
+# a = int(input("Enter a number = "))
+# b = int(input("Enter a number = "))
+# print(f"{a} + {b} = {a+b}")
+# print(a,"+",b,"=",a+b)
