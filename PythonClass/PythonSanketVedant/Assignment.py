@@ -2,7 +2,7 @@
 
 # pin = 1234,bal = 13000
 # press 1 : withdraw
-    # enter a pin = 1234
+    # enter a pin = 1234 ...........upin
     #     enter a amount = 5000
     #         transaction sucessfull
     #         current balance = 8000
