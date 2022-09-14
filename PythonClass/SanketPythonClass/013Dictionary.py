@@ -1,5 +1,5 @@
 # dictionary - key value pair 
-# a = {"tamater" : 2, 'wange':5, 'gobi' : 3}
+a = {"tamater" : 2, 'wange':5, 'gobi' : 3}
 # print(a)
 # print(type(a))
 # print(len(a))
