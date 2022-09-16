@@ -29,9 +29,9 @@
 
 
 # without arguemnt without return 
-# def square():
-#     a = int(input("Enter a number = "))
-#     sq = a * a 
-#     print(sq) 
+def square():
+    a = int(input("Enter a number = "))
+    sq = a * a 
+    print(sq) 
 
-# square()
+square()
