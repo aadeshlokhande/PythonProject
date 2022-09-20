@@ -44,6 +44,7 @@ pg.hotkey("alt","t")
 sleep(2)
 pg.typewrite(f"gcc {filename} && ./a.out",0.08)
 pg.press("Enter")
+sleep(1)
 
 pg.typewrite(f"10",0.2)
 pg.press("Enter")
