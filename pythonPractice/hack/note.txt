@@ -1,0 +1,52 @@
+Tell me something about yourself?
+What are all Project you worked on?
+Current project and what is your responsibilities?
+What is red teaming?
+Have you worked on any red teaming?
+If you get domain name to test? As part of redteam what are the steps you will take take?
+Owasp top 10?
+How can you impact server using different types  vulnerability?
+Ad exploit
+Window machine login bypass?
+What is information gathering?
+Difference places where you can find previous attacks information regarding company?
+What is Open Web Application Security Project, OWASP?
+What is modual of OWASP?
+Explain all OWASP Modules?
+What is injection?
+Type of injection?
+What id SQL injection?
+What is OS Command injection?
+How to find SQL injection in brief?
+How to find OS Command injection in brief?
+What is NMAP?
+NMAP port number?
+Openping use for?
+Command to find port scan in NMAP?
+What is Metasploit?
+Modules in Metasploit?
+How to use Metasploit?
+What is the approach do you find vulnerability in web application?
+What is Session fixation?
+What is Privileged escalation?
+If we get user access is it PE?
+What is XSS?
+What is the impact of XSS?
+How to prevent XSS?
+what is the impact of SQL injection?
+How to prevent SQL injection?
+What is Shell upload?
+How to upload shell in web application?
+How to get access by shell?
+What is LFI?
+How to exicutive LFI?
+What is RFI?
+How to Exicutive RFI?
+How to Test web application Step by Step procces?
+Burp suite modules?
+Burp suite work
+What Is SSL Encryption?
+What Do You Mean by Port Scanning?
+Explain the OSI Model?
+What Do You Mean by Phishing? How Many Types of Phishing Are There?
+What Do You Mean by SQL Injection?

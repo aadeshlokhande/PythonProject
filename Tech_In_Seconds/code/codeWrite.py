@@ -1,22 +1,27 @@
 import pyautogui as pg
 from time import sleep
 
-filename = "addition.c"
+filename = "Fibonacci.c"
 
 credit = "// Author : @Tech_In_Seconds\n"
 
-data = """#include <stdio.h>
-int main()
-{
-    int num1,num2,ans;
-    printf("Enter a first number = ");
-    scanf("%d",&num1);
-    printf("Enter a first number = ");
-    scanf("%d",&num2);
-    ans = num1 + num2;
-    printf("%d + %d = %d\\n",num1,num2,ans);
-    return 0;
-}
+data = """#include<stdio.h>    
+int main()    
+{    
+    int n1=0,n2=1,n3,i,number;    
+    printf("Enter the number of elements:");    
+    scanf("%d",&number);    
+    printf("\\n%d %d ",n1,n2);
+    for(i=2;i<number;i++)
+    {    
+        n3=n1+n2;    
+        printf("%d ",n3);    
+        n1=n2;    
+        n2=n3;    
+    }  
+    printf("\\n");
+    return 0;  
+}    
 """
 
 data = credit + data
@@ -47,7 +52,4 @@ pg.press("Enter")
 sleep(1)
 
 pg.typewrite(f"10",0.2)
-pg.press("Enter")
-
-pg.typewrite(f"20",0.2)
 pg.press("Enter")
