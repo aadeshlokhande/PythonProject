@@ -1,28 +1,33 @@
 import pyautogui as pg
 from time import sleep
 
-filename = "Fibonacci.c"
+filename = "Palindrome.c"
 
 credit = "// Author : @Tech_In_Seconds\n"
 
-data = """#include<stdio.h>    
+data = """#include<stdio.h>  
 int main()    
 {    
-    int n1=0,n2=1,n3,i,number;    
-    printf("Enter the number of elements:");    
-    scanf("%d",&number);    
-    printf("\\n%d %d ",n1,n2);
-    for(i=2;i<number;i++)
+    int n,r,sum=0,temp;    
+    printf("enter the number=");    
+    scanf("%d",&n);    
+    temp=n;    
+    while(n>0)    
     {    
-        n3=n1+n2;    
-        printf("%d ",n3);    
-        n1=n2;    
-        n2=n3;    
-    }  
-    printf("\\n");
+        r=n%10;    
+        sum=(sum*10)+r;    
+        n=n/10;    
+    }    
+    if(temp==sum)
+    {
+        printf("palindrome number \\n");
+    }
+    else 
+    {
+        printf("not palindrome\\n");   
+    }
     return 0;  
-}    
-"""
+}"""
 
 data = credit + data
 
@@ -31,7 +36,7 @@ data = data.replace("    ","")
 sleep(1)
 pg.click(400,300)
 sleep(1)
-pg.moveTo(800,800)
+pg.moveTo(1100,800)
 
 for i in data:
     if(i=="<"):
@@ -51,5 +56,5 @@ pg.typewrite(f"gcc {filename} && ./a.out",0.08)
 pg.press("Enter")
 sleep(1)
 
-pg.typewrite(f"10",0.2)
+pg.typewrite(f"12321",0.2)
 pg.press("Enter")
