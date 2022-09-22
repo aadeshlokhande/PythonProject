@@ -35,7 +35,7 @@ data = data.replace("    ","")
 
 sleep(1)
 pg.click(400,300)
-sleep(1)
+sleep(3)
 pg.moveTo(1100,800)
 
 for i in data:
