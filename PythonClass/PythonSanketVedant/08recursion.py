@@ -11,7 +11,7 @@
 #     if(a>=1):
 #         print("Hello",end=" ")
 #         abc(a-1)
-    
+
 # abc(5)
 
 # ------------------------------------
@@ -30,7 +30,7 @@
 #         return 1 
 #     else:
 #         return a * fact(a-1)
-    
+
 # ans = fact(976)
 # print(ans)
 
