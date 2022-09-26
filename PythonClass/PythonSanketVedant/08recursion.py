@@ -31,7 +31,7 @@
 #     else:
 #         return a * fact(a-1)
     
-# ans = fact(5)
+# ans = fact(976)
 # print(ans)
 
 
