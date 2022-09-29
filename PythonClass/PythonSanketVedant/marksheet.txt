@@ -1,0 +1,47 @@
+marks = [
+    [12,23,54,75,35,24],
+    [12,54,75,35,25,64],
+    [24,53,75,35,64,25],
+]
+
+
+press 1 : marks 
+    enter a roll number = 2
+        press 0 = hindi
+        press 1 = marathi 
+        press 2 = eng 
+        .
+        .
+        .
+        enter a subject = 2
+            english = 75
+
+press 2 : result 
+    enter a roll number = 2
+        hindi = 24
+        marathi = 53
+        .
+        .
+        .
+
+press 3 : whole result
+            hin     mar     eng     his     geo     sci
+roll num 0  12      67      56      45      45      78
+roll num 1  12      67      56      45      45      78
+roll num 2  12      67      56      45      45      78
+roll num 3  12      67      56      45      45      78
+roll num 4  12      67      56      45      45      78
+roll num 5  12      67      56      45      45      78
+roll num 6  12      67      56      45      45      78
+roll num 7  12      67      56      45      45      78
+roll num 8  12      67      56      45      45      78
+roll num 9  12      67      56      45      45      78
+roll num 10  12      67      56      45      45      78
+roll num 11  12      67      56      45      45      78
+roll num 12  12      67      56      45      45      78
+roll num 13 12      67      56      45      45      78
+    .
+    .
+    .
+    .
+    

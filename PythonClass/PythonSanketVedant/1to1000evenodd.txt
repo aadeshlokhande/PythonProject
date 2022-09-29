@@ -1,0 +1,15 @@
+num = int(input("enter a number = ))
+
+if(num==1):
+    print("Odd number")
+elif(num==2):
+    print("Even number")
+elif(num==3):
+    print("odd number")
+    .
+    .
+    .
+elif(num==1000):
+    print("Even number")
+else:
+    print("invalid number")

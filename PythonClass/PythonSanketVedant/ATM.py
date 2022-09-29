@@ -25,6 +25,7 @@ elif(choice==2):
         print("Current balance =",bal)
     else:
         print("wrong pin")
+
 elif(choice==3):
     upin = int(input("enter your pin = "))
     if(upin==pin):
@@ -36,6 +37,7 @@ elif(choice==3):
             print("pin doesn't match")
     else:
         print("Wrong pin")
+        
 elif(choice==4):
     print("Thanks for using our service")
 else:
