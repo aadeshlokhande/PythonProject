@@ -1,0 +1,2003 @@
+num = int(input("enter a number = "))
+if(num==1):
+	print(1)
+elif(num==2):
+	print(4)
+elif(num==3):
+	print(9)
+elif(num==4):
+	print(16)
+elif(num==5):
+	print(25)
+elif(num==6):
+	print(36)
+elif(num==7):
+	print(49)
+elif(num==8):
+	print(64)
+elif(num==9):
+	print(81)
+elif(num==10):
+	print(100)
+elif(num==11):
+	print(121)
+elif(num==12):
+	print(144)
+elif(num==13):
+	print(169)
+elif(num==14):
+	print(196)
+elif(num==15):
+	print(225)
+elif(num==16):
+	print(256)
+elif(num==17):
+	print(289)
+elif(num==18):
+	print(324)
+elif(num==19):
+	print(361)
+elif(num==20):
+	print(400)
+elif(num==21):
+	print(441)
+elif(num==22):
+	print(484)
+elif(num==23):
+	print(529)
+elif(num==24):
+	print(576)
+elif(num==25):
+	print(625)
+elif(num==26):
+	print(676)
+elif(num==27):
+	print(729)
+elif(num==28):
+	print(784)
+elif(num==29):
+	print(841)
+elif(num==30):
+	print(900)
+elif(num==31):
+	print(961)
+elif(num==32):
+	print(1024)
+elif(num==33):
+	print(1089)
+elif(num==34):
+	print(1156)
+elif(num==35):
+	print(1225)
+elif(num==36):
+	print(1296)
+elif(num==37):
+	print(1369)
+elif(num==38):
+	print(1444)
+elif(num==39):
+	print(1521)
+elif(num==40):
+	print(1600)
+elif(num==41):
+	print(1681)
+elif(num==42):
+	print(1764)
+elif(num==43):
+	print(1849)
+elif(num==44):
+	print(1936)
+elif(num==45):
+	print(2025)
+elif(num==46):
+	print(2116)
+elif(num==47):
+	print(2209)
+elif(num==48):
+	print(2304)
+elif(num==49):
+	print(2401)
+elif(num==50):
+	print(2500)
+elif(num==51):
+	print(2601)
+elif(num==52):
+	print(2704)
+elif(num==53):
+	print(2809)
+elif(num==54):
+	print(2916)
+elif(num==55):
+	print(3025)
+elif(num==56):
+	print(3136)
+elif(num==57):
+	print(3249)
+elif(num==58):
+	print(3364)
+elif(num==59):
+	print(3481)
+elif(num==60):
+	print(3600)
+elif(num==61):
+	print(3721)
+elif(num==62):
+	print(3844)
+elif(num==63):
+	print(3969)
+elif(num==64):
+	print(4096)
+elif(num==65):
+	print(4225)
+elif(num==66):
+	print(4356)
+elif(num==67):
+	print(4489)
+elif(num==68):
+	print(4624)
+elif(num==69):
+	print(4761)
+elif(num==70):
+	print(4900)
+elif(num==71):
+	print(5041)
+elif(num==72):
+	print(5184)
+elif(num==73):
+	print(5329)
+elif(num==74):
+	print(5476)
+elif(num==75):
+	print(5625)
+elif(num==76):
+	print(5776)
+elif(num==77):
+	print(5929)
+elif(num==78):
+	print(6084)
+elif(num==79):
+	print(6241)
+elif(num==80):
+	print(6400)
+elif(num==81):
+	print(6561)
+elif(num==82):
+	print(6724)
+elif(num==83):
+	print(6889)
+elif(num==84):
+	print(7056)
+elif(num==85):
+	print(7225)
+elif(num==86):
+	print(7396)
+elif(num==87):
+	print(7569)
+elif(num==88):
+	print(7744)
+elif(num==89):
+	print(7921)
+elif(num==90):
+	print(8100)
+elif(num==91):
+	print(8281)
+elif(num==92):
+	print(8464)
+elif(num==93):
+	print(8649)
+elif(num==94):
+	print(8836)
+elif(num==95):
+	print(9025)
+elif(num==96):
+	print(9216)
+elif(num==97):
+	print(9409)
+elif(num==98):
+	print(9604)
+elif(num==99):
+	print(9801)
+elif(num==100):
+	print(10000)
+elif(num==101):
+	print(10201)
+elif(num==102):
+	print(10404)
+elif(num==103):
+	print(10609)
+elif(num==104):
+	print(10816)
+elif(num==105):
+	print(11025)
+elif(num==106):
+	print(11236)
+elif(num==107):
+	print(11449)
+elif(num==108):
+	print(11664)
+elif(num==109):
+	print(11881)
+elif(num==110):
+	print(12100)
+elif(num==111):
+	print(12321)
+elif(num==112):
+	print(12544)
+elif(num==113):
+	print(12769)
+elif(num==114):
+	print(12996)
+elif(num==115):
+	print(13225)
+elif(num==116):
+	print(13456)
+elif(num==117):
+	print(13689)
+elif(num==118):
+	print(13924)
+elif(num==119):
+	print(14161)
+elif(num==120):
+	print(14400)
+elif(num==121):
+	print(14641)
+elif(num==122):
+	print(14884)
+elif(num==123):
+	print(15129)
+elif(num==124):
+	print(15376)
+elif(num==125):
+	print(15625)
+elif(num==126):
+	print(15876)
+elif(num==127):
+	print(16129)
+elif(num==128):
+	print(16384)
+elif(num==129):
+	print(16641)
+elif(num==130):
+	print(16900)
+elif(num==131):
+	print(17161)
+elif(num==132):
+	print(17424)
+elif(num==133):
+	print(17689)
+elif(num==134):
+	print(17956)
+elif(num==135):
+	print(18225)
+elif(num==136):
+	print(18496)
+elif(num==137):
+	print(18769)
+elif(num==138):
+	print(19044)
+elif(num==139):
+	print(19321)
+elif(num==140):
+	print(19600)
+elif(num==141):
+	print(19881)
+elif(num==142):
+	print(20164)
+elif(num==143):
+	print(20449)
+elif(num==144):
+	print(20736)
+elif(num==145):
+	print(21025)
+elif(num==146):
+	print(21316)
+elif(num==147):
+	print(21609)
+elif(num==148):
+	print(21904)
+elif(num==149):
+	print(22201)
+elif(num==150):
+	print(22500)
+elif(num==151):
+	print(22801)
+elif(num==152):
+	print(23104)
+elif(num==153):
+	print(23409)
+elif(num==154):
+	print(23716)
+elif(num==155):
+	print(24025)
+elif(num==156):
+	print(24336)
+elif(num==157):
+	print(24649)
+elif(num==158):
+	print(24964)
+elif(num==159):
+	print(25281)
+elif(num==160):
+	print(25600)
+elif(num==161):
+	print(25921)
+elif(num==162):
+	print(26244)
+elif(num==163):
+	print(26569)
+elif(num==164):
+	print(26896)
+elif(num==165):
+	print(27225)
+elif(num==166):
+	print(27556)
+elif(num==167):
+	print(27889)
+elif(num==168):
+	print(28224)
+elif(num==169):
+	print(28561)
+elif(num==170):
+	print(28900)
+elif(num==171):
+	print(29241)
+elif(num==172):
+	print(29584)
+elif(num==173):
+	print(29929)
+elif(num==174):
+	print(30276)
+elif(num==175):
+	print(30625)
+elif(num==176):
+	print(30976)
+elif(num==177):
+	print(31329)
+elif(num==178):
+	print(31684)
+elif(num==179):
+	print(32041)
+elif(num==180):
+	print(32400)
+elif(num==181):
+	print(32761)
+elif(num==182):
+	print(33124)
+elif(num==183):
+	print(33489)
+elif(num==184):
+	print(33856)
+elif(num==185):
+	print(34225)
+elif(num==186):
+	print(34596)
+elif(num==187):
+	print(34969)
+elif(num==188):
+	print(35344)
+elif(num==189):
+	print(35721)
+elif(num==190):
+	print(36100)
+elif(num==191):
+	print(36481)
+elif(num==192):
+	print(36864)
+elif(num==193):
+	print(37249)
+elif(num==194):
+	print(37636)
+elif(num==195):
+	print(38025)
+elif(num==196):
+	print(38416)
+elif(num==197):
+	print(38809)
+elif(num==198):
+	print(39204)
+elif(num==199):
+	print(39601)
+elif(num==200):
+	print(40000)
+elif(num==201):
+	print(40401)
+elif(num==202):
+	print(40804)
+elif(num==203):
+	print(41209)
+elif(num==204):
+	print(41616)
+elif(num==205):
+	print(42025)
+elif(num==206):
+	print(42436)
+elif(num==207):
+	print(42849)
+elif(num==208):
+	print(43264)
+elif(num==209):
+	print(43681)
+elif(num==210):
+	print(44100)
+elif(num==211):
+	print(44521)
+elif(num==212):
+	print(44944)
+elif(num==213):
+	print(45369)
+elif(num==214):
+	print(45796)
+elif(num==215):
+	print(46225)
+elif(num==216):
+	print(46656)
+elif(num==217):
+	print(47089)
+elif(num==218):
+	print(47524)
+elif(num==219):
+	print(47961)
+elif(num==220):
+	print(48400)
+elif(num==221):
+	print(48841)
+elif(num==222):
+	print(49284)
+elif(num==223):
+	print(49729)
+elif(num==224):
+	print(50176)
+elif(num==225):
+	print(50625)
+elif(num==226):
+	print(51076)
+elif(num==227):
+	print(51529)
+elif(num==228):
+	print(51984)
+elif(num==229):
+	print(52441)
+elif(num==230):
+	print(52900)
+elif(num==231):
+	print(53361)
+elif(num==232):
+	print(53824)
+elif(num==233):
+	print(54289)
+elif(num==234):
+	print(54756)
+elif(num==235):
+	print(55225)
+elif(num==236):
+	print(55696)
+elif(num==237):
+	print(56169)
+elif(num==238):
+	print(56644)
+elif(num==239):
+	print(57121)
+elif(num==240):
+	print(57600)
+elif(num==241):
+	print(58081)
+elif(num==242):
+	print(58564)
+elif(num==243):
+	print(59049)
+elif(num==244):
+	print(59536)
+elif(num==245):
+	print(60025)
+elif(num==246):
+	print(60516)
+elif(num==247):
+	print(61009)
+elif(num==248):
+	print(61504)
+elif(num==249):
+	print(62001)
+elif(num==250):
+	print(62500)
+elif(num==251):
+	print(63001)
+elif(num==252):
+	print(63504)
+elif(num==253):
+	print(64009)
+elif(num==254):
+	print(64516)
+elif(num==255):
+	print(65025)
+elif(num==256):
+	print(65536)
+elif(num==257):
+	print(66049)
+elif(num==258):
+	print(66564)
+elif(num==259):
+	print(67081)
+elif(num==260):
+	print(67600)
+elif(num==261):
+	print(68121)
+elif(num==262):
+	print(68644)
+elif(num==263):
+	print(69169)
+elif(num==264):
+	print(69696)
+elif(num==265):
+	print(70225)
+elif(num==266):
+	print(70756)
+elif(num==267):
+	print(71289)
+elif(num==268):
+	print(71824)
+elif(num==269):
+	print(72361)
+elif(num==270):
+	print(72900)
+elif(num==271):
+	print(73441)
+elif(num==272):
+	print(73984)
+elif(num==273):
+	print(74529)
+elif(num==274):
+	print(75076)
+elif(num==275):
+	print(75625)
+elif(num==276):
+	print(76176)
+elif(num==277):
+	print(76729)
+elif(num==278):
+	print(77284)
+elif(num==279):
+	print(77841)
+elif(num==280):
+	print(78400)
+elif(num==281):
+	print(78961)
+elif(num==282):
+	print(79524)
+elif(num==283):
+	print(80089)
+elif(num==284):
+	print(80656)
+elif(num==285):
+	print(81225)
+elif(num==286):
+	print(81796)
+elif(num==287):
+	print(82369)
+elif(num==288):
+	print(82944)
+elif(num==289):
+	print(83521)
+elif(num==290):
+	print(84100)
+elif(num==291):
+	print(84681)
+elif(num==292):
+	print(85264)
+elif(num==293):
+	print(85849)
+elif(num==294):
+	print(86436)
+elif(num==295):
+	print(87025)
+elif(num==296):
+	print(87616)
+elif(num==297):
+	print(88209)
+elif(num==298):
+	print(88804)
+elif(num==299):
+	print(89401)
+elif(num==300):
+	print(90000)
+elif(num==301):
+	print(90601)
+elif(num==302):
+	print(91204)
+elif(num==303):
+	print(91809)
+elif(num==304):
+	print(92416)
+elif(num==305):
+	print(93025)
+elif(num==306):
+	print(93636)
+elif(num==307):
+	print(94249)
+elif(num==308):
+	print(94864)
+elif(num==309):
+	print(95481)
+elif(num==310):
+	print(96100)
+elif(num==311):
+	print(96721)
+elif(num==312):
+	print(97344)
+elif(num==313):
+	print(97969)
+elif(num==314):
+	print(98596)
+elif(num==315):
+	print(99225)
+elif(num==316):
+	print(99856)
+elif(num==317):
+	print(100489)
+elif(num==318):
+	print(101124)
+elif(num==319):
+	print(101761)
+elif(num==320):
+	print(102400)
+elif(num==321):
+	print(103041)
+elif(num==322):
+	print(103684)
+elif(num==323):
+	print(104329)
+elif(num==324):
+	print(104976)
+elif(num==325):
+	print(105625)
+elif(num==326):
+	print(106276)
+elif(num==327):
+	print(106929)
+elif(num==328):
+	print(107584)
+elif(num==329):
+	print(108241)
+elif(num==330):
+	print(108900)
+elif(num==331):
+	print(109561)
+elif(num==332):
+	print(110224)
+elif(num==333):
+	print(110889)
+elif(num==334):
+	print(111556)
+elif(num==335):
+	print(112225)
+elif(num==336):
+	print(112896)
+elif(num==337):
+	print(113569)
+elif(num==338):
+	print(114244)
+elif(num==339):
+	print(114921)
+elif(num==340):
+	print(115600)
+elif(num==341):
+	print(116281)
+elif(num==342):
+	print(116964)
+elif(num==343):
+	print(117649)
+elif(num==344):
+	print(118336)
+elif(num==345):
+	print(119025)
+elif(num==346):
+	print(119716)
+elif(num==347):
+	print(120409)
+elif(num==348):
+	print(121104)
+elif(num==349):
+	print(121801)
+elif(num==350):
+	print(122500)
+elif(num==351):
+	print(123201)
+elif(num==352):
+	print(123904)
+elif(num==353):
+	print(124609)
+elif(num==354):
+	print(125316)
+elif(num==355):
+	print(126025)
+elif(num==356):
+	print(126736)
+elif(num==357):
+	print(127449)
+elif(num==358):
+	print(128164)
+elif(num==359):
+	print(128881)
+elif(num==360):
+	print(129600)
+elif(num==361):
+	print(130321)
+elif(num==362):
+	print(131044)
+elif(num==363):
+	print(131769)
+elif(num==364):
+	print(132496)
+elif(num==365):
+	print(133225)
+elif(num==366):
+	print(133956)
+elif(num==367):
+	print(134689)
+elif(num==368):
+	print(135424)
+elif(num==369):
+	print(136161)
+elif(num==370):
+	print(136900)
+elif(num==371):
+	print(137641)
+elif(num==372):
+	print(138384)
+elif(num==373):
+	print(139129)
+elif(num==374):
+	print(139876)
+elif(num==375):
+	print(140625)
+elif(num==376):
+	print(141376)
+elif(num==377):
+	print(142129)
+elif(num==378):
+	print(142884)
+elif(num==379):
+	print(143641)
+elif(num==380):
+	print(144400)
+elif(num==381):
+	print(145161)
+elif(num==382):
+	print(145924)
+elif(num==383):
+	print(146689)
+elif(num==384):
+	print(147456)
+elif(num==385):
+	print(148225)
+elif(num==386):
+	print(148996)
+elif(num==387):
+	print(149769)
+elif(num==388):
+	print(150544)
+elif(num==389):
+	print(151321)
+elif(num==390):
+	print(152100)
+elif(num==391):
+	print(152881)
+elif(num==392):
+	print(153664)
+elif(num==393):
+	print(154449)
+elif(num==394):
+	print(155236)
+elif(num==395):
+	print(156025)
+elif(num==396):
+	print(156816)
+elif(num==397):
+	print(157609)
+elif(num==398):
+	print(158404)
+elif(num==399):
+	print(159201)
+elif(num==400):
+	print(160000)
+elif(num==401):
+	print(160801)
+elif(num==402):
+	print(161604)
+elif(num==403):
+	print(162409)
+elif(num==404):
+	print(163216)
+elif(num==405):
+	print(164025)
+elif(num==406):
+	print(164836)
+elif(num==407):
+	print(165649)
+elif(num==408):
+	print(166464)
+elif(num==409):
+	print(167281)
+elif(num==410):
+	print(168100)
+elif(num==411):
+	print(168921)
+elif(num==412):
+	print(169744)
+elif(num==413):
+	print(170569)
+elif(num==414):
+	print(171396)
+elif(num==415):
+	print(172225)
+elif(num==416):
+	print(173056)
+elif(num==417):
+	print(173889)
+elif(num==418):
+	print(174724)
+elif(num==419):
+	print(175561)
+elif(num==420):
+	print(176400)
+elif(num==421):
+	print(177241)
+elif(num==422):
+	print(178084)
+elif(num==423):
+	print(178929)
+elif(num==424):
+	print(179776)
+elif(num==425):
+	print(180625)
+elif(num==426):
+	print(181476)
+elif(num==427):
+	print(182329)
+elif(num==428):
+	print(183184)
+elif(num==429):
+	print(184041)
+elif(num==430):
+	print(184900)
+elif(num==431):
+	print(185761)
+elif(num==432):
+	print(186624)
+elif(num==433):
+	print(187489)
+elif(num==434):
+	print(188356)
+elif(num==435):
+	print(189225)
+elif(num==436):
+	print(190096)
+elif(num==437):
+	print(190969)
+elif(num==438):
+	print(191844)
+elif(num==439):
+	print(192721)
+elif(num==440):
+	print(193600)
+elif(num==441):
+	print(194481)
+elif(num==442):
+	print(195364)
+elif(num==443):
+	print(196249)
+elif(num==444):
+	print(197136)
+elif(num==445):
+	print(198025)
+elif(num==446):
+	print(198916)
+elif(num==447):
+	print(199809)
+elif(num==448):
+	print(200704)
+elif(num==449):
+	print(201601)
+elif(num==450):
+	print(202500)
+elif(num==451):
+	print(203401)
+elif(num==452):
+	print(204304)
+elif(num==453):
+	print(205209)
+elif(num==454):
+	print(206116)
+elif(num==455):
+	print(207025)
+elif(num==456):
+	print(207936)
+elif(num==457):
+	print(208849)
+elif(num==458):
+	print(209764)
+elif(num==459):
+	print(210681)
+elif(num==460):
+	print(211600)
+elif(num==461):
+	print(212521)
+elif(num==462):
+	print(213444)
+elif(num==463):
+	print(214369)
+elif(num==464):
+	print(215296)
+elif(num==465):
+	print(216225)
+elif(num==466):
+	print(217156)
+elif(num==467):
+	print(218089)
+elif(num==468):
+	print(219024)
+elif(num==469):
+	print(219961)
+elif(num==470):
+	print(220900)
+elif(num==471):
+	print(221841)
+elif(num==472):
+	print(222784)
+elif(num==473):
+	print(223729)
+elif(num==474):
+	print(224676)
+elif(num==475):
+	print(225625)
+elif(num==476):
+	print(226576)
+elif(num==477):
+	print(227529)
+elif(num==478):
+	print(228484)
+elif(num==479):
+	print(229441)
+elif(num==480):
+	print(230400)
+elif(num==481):
+	print(231361)
+elif(num==482):
+	print(232324)
+elif(num==483):
+	print(233289)
+elif(num==484):
+	print(234256)
+elif(num==485):
+	print(235225)
+elif(num==486):
+	print(236196)
+elif(num==487):
+	print(237169)
+elif(num==488):
+	print(238144)
+elif(num==489):
+	print(239121)
+elif(num==490):
+	print(240100)
+elif(num==491):
+	print(241081)
+elif(num==492):
+	print(242064)
+elif(num==493):
+	print(243049)
+elif(num==494):
+	print(244036)
+elif(num==495):
+	print(245025)
+elif(num==496):
+	print(246016)
+elif(num==497):
+	print(247009)
+elif(num==498):
+	print(248004)
+elif(num==499):
+	print(249001)
+elif(num==500):
+	print(250000)
+elif(num==501):
+	print(251001)
+elif(num==502):
+	print(252004)
+elif(num==503):
+	print(253009)
+elif(num==504):
+	print(254016)
+elif(num==505):
+	print(255025)
+elif(num==506):
+	print(256036)
+elif(num==507):
+	print(257049)
+elif(num==508):
+	print(258064)
+elif(num==509):
+	print(259081)
+elif(num==510):
+	print(260100)
+elif(num==511):
+	print(261121)
+elif(num==512):
+	print(262144)
+elif(num==513):
+	print(263169)
+elif(num==514):
+	print(264196)
+elif(num==515):
+	print(265225)
+elif(num==516):
+	print(266256)
+elif(num==517):
+	print(267289)
+elif(num==518):
+	print(268324)
+elif(num==519):
+	print(269361)
+elif(num==520):
+	print(270400)
+elif(num==521):
+	print(271441)
+elif(num==522):
+	print(272484)
+elif(num==523):
+	print(273529)
+elif(num==524):
+	print(274576)
+elif(num==525):
+	print(275625)
+elif(num==526):
+	print(276676)
+elif(num==527):
+	print(277729)
+elif(num==528):
+	print(278784)
+elif(num==529):
+	print(279841)
+elif(num==530):
+	print(280900)
+elif(num==531):
+	print(281961)
+elif(num==532):
+	print(283024)
+elif(num==533):
+	print(284089)
+elif(num==534):
+	print(285156)
+elif(num==535):
+	print(286225)
+elif(num==536):
+	print(287296)
+elif(num==537):
+	print(288369)
+elif(num==538):
+	print(289444)
+elif(num==539):
+	print(290521)
+elif(num==540):
+	print(291600)
+elif(num==541):
+	print(292681)
+elif(num==542):
+	print(293764)
+elif(num==543):
+	print(294849)
+elif(num==544):
+	print(295936)
+elif(num==545):
+	print(297025)
+elif(num==546):
+	print(298116)
+elif(num==547):
+	print(299209)
+elif(num==548):
+	print(300304)
+elif(num==549):
+	print(301401)
+elif(num==550):
+	print(302500)
+elif(num==551):
+	print(303601)
+elif(num==552):
+	print(304704)
+elif(num==553):
+	print(305809)
+elif(num==554):
+	print(306916)
+elif(num==555):
+	print(308025)
+elif(num==556):
+	print(309136)
+elif(num==557):
+	print(310249)
+elif(num==558):
+	print(311364)
+elif(num==559):
+	print(312481)
+elif(num==560):
+	print(313600)
+elif(num==561):
+	print(314721)
+elif(num==562):
+	print(315844)
+elif(num==563):
+	print(316969)
+elif(num==564):
+	print(318096)
+elif(num==565):
+	print(319225)
+elif(num==566):
+	print(320356)
+elif(num==567):
+	print(321489)
+elif(num==568):
+	print(322624)
+elif(num==569):
+	print(323761)
+elif(num==570):
+	print(324900)
+elif(num==571):
+	print(326041)
+elif(num==572):
+	print(327184)
+elif(num==573):
+	print(328329)
+elif(num==574):
+	print(329476)
+elif(num==575):
+	print(330625)
+elif(num==576):
+	print(331776)
+elif(num==577):
+	print(332929)
+elif(num==578):
+	print(334084)
+elif(num==579):
+	print(335241)
+elif(num==580):
+	print(336400)
+elif(num==581):
+	print(337561)
+elif(num==582):
+	print(338724)
+elif(num==583):
+	print(339889)
+elif(num==584):
+	print(341056)
+elif(num==585):
+	print(342225)
+elif(num==586):
+	print(343396)
+elif(num==587):
+	print(344569)
+elif(num==588):
+	print(345744)
+elif(num==589):
+	print(346921)
+elif(num==590):
+	print(348100)
+elif(num==591):
+	print(349281)
+elif(num==592):
+	print(350464)
+elif(num==593):
+	print(351649)
+elif(num==594):
+	print(352836)
+elif(num==595):
+	print(354025)
+elif(num==596):
+	print(355216)
+elif(num==597):
+	print(356409)
+elif(num==598):
+	print(357604)
+elif(num==599):
+	print(358801)
+elif(num==600):
+	print(360000)
+elif(num==601):
+	print(361201)
+elif(num==602):
+	print(362404)
+elif(num==603):
+	print(363609)
+elif(num==604):
+	print(364816)
+elif(num==605):
+	print(366025)
+elif(num==606):
+	print(367236)
+elif(num==607):
+	print(368449)
+elif(num==608):
+	print(369664)
+elif(num==609):
+	print(370881)
+elif(num==610):
+	print(372100)
+elif(num==611):
+	print(373321)
+elif(num==612):
+	print(374544)
+elif(num==613):
+	print(375769)
+elif(num==614):
+	print(376996)
+elif(num==615):
+	print(378225)
+elif(num==616):
+	print(379456)
+elif(num==617):
+	print(380689)
+elif(num==618):
+	print(381924)
+elif(num==619):
+	print(383161)
+elif(num==620):
+	print(384400)
+elif(num==621):
+	print(385641)
+elif(num==622):
+	print(386884)
+elif(num==623):
+	print(388129)
+elif(num==624):
+	print(389376)
+elif(num==625):
+	print(390625)
+elif(num==626):
+	print(391876)
+elif(num==627):
+	print(393129)
+elif(num==628):
+	print(394384)
+elif(num==629):
+	print(395641)
+elif(num==630):
+	print(396900)
+elif(num==631):
+	print(398161)
+elif(num==632):
+	print(399424)
+elif(num==633):
+	print(400689)
+elif(num==634):
+	print(401956)
+elif(num==635):
+	print(403225)
+elif(num==636):
+	print(404496)
+elif(num==637):
+	print(405769)
+elif(num==638):
+	print(407044)
+elif(num==639):
+	print(408321)
+elif(num==640):
+	print(409600)
+elif(num==641):
+	print(410881)
+elif(num==642):
+	print(412164)
+elif(num==643):
+	print(413449)
+elif(num==644):
+	print(414736)
+elif(num==645):
+	print(416025)
+elif(num==646):
+	print(417316)
+elif(num==647):
+	print(418609)
+elif(num==648):
+	print(419904)
+elif(num==649):
+	print(421201)
+elif(num==650):
+	print(422500)
+elif(num==651):
+	print(423801)
+elif(num==652):
+	print(425104)
+elif(num==653):
+	print(426409)
+elif(num==654):
+	print(427716)
+elif(num==655):
+	print(429025)
+elif(num==656):
+	print(430336)
+elif(num==657):
+	print(431649)
+elif(num==658):
+	print(432964)
+elif(num==659):
+	print(434281)
+elif(num==660):
+	print(435600)
+elif(num==661):
+	print(436921)
+elif(num==662):
+	print(438244)
+elif(num==663):
+	print(439569)
+elif(num==664):
+	print(440896)
+elif(num==665):
+	print(442225)
+elif(num==666):
+	print(443556)
+elif(num==667):
+	print(444889)
+elif(num==668):
+	print(446224)
+elif(num==669):
+	print(447561)
+elif(num==670):
+	print(448900)
+elif(num==671):
+	print(450241)
+elif(num==672):
+	print(451584)
+elif(num==673):
+	print(452929)
+elif(num==674):
+	print(454276)
+elif(num==675):
+	print(455625)
+elif(num==676):
+	print(456976)
+elif(num==677):
+	print(458329)
+elif(num==678):
+	print(459684)
+elif(num==679):
+	print(461041)
+elif(num==680):
+	print(462400)
+elif(num==681):
+	print(463761)
+elif(num==682):
+	print(465124)
+elif(num==683):
+	print(466489)
+elif(num==684):
+	print(467856)
+elif(num==685):
+	print(469225)
+elif(num==686):
+	print(470596)
+elif(num==687):
+	print(471969)
+elif(num==688):
+	print(473344)
+elif(num==689):
+	print(474721)
+elif(num==690):
+	print(476100)
+elif(num==691):
+	print(477481)
+elif(num==692):
+	print(478864)
+elif(num==693):
+	print(480249)
+elif(num==694):
+	print(481636)
+elif(num==695):
+	print(483025)
+elif(num==696):
+	print(484416)
+elif(num==697):
+	print(485809)
+elif(num==698):
+	print(487204)
+elif(num==699):
+	print(488601)
+elif(num==700):
+	print(490000)
+elif(num==701):
+	print(491401)
+elif(num==702):
+	print(492804)
+elif(num==703):
+	print(494209)
+elif(num==704):
+	print(495616)
+elif(num==705):
+	print(497025)
+elif(num==706):
+	print(498436)
+elif(num==707):
+	print(499849)
+elif(num==708):
+	print(501264)
+elif(num==709):
+	print(502681)
+elif(num==710):
+	print(504100)
+elif(num==711):
+	print(505521)
+elif(num==712):
+	print(506944)
+elif(num==713):
+	print(508369)
+elif(num==714):
+	print(509796)
+elif(num==715):
+	print(511225)
+elif(num==716):
+	print(512656)
+elif(num==717):
+	print(514089)
+elif(num==718):
+	print(515524)
+elif(num==719):
+	print(516961)
+elif(num==720):
+	print(518400)
+elif(num==721):
+	print(519841)
+elif(num==722):
+	print(521284)
+elif(num==723):
+	print(522729)
+elif(num==724):
+	print(524176)
+elif(num==725):
+	print(525625)
+elif(num==726):
+	print(527076)
+elif(num==727):
+	print(528529)
+elif(num==728):
+	print(529984)
+elif(num==729):
+	print(531441)
+elif(num==730):
+	print(532900)
+elif(num==731):
+	print(534361)
+elif(num==732):
+	print(535824)
+elif(num==733):
+	print(537289)
+elif(num==734):
+	print(538756)
+elif(num==735):
+	print(540225)
+elif(num==736):
+	print(541696)
+elif(num==737):
+	print(543169)
+elif(num==738):
+	print(544644)
+elif(num==739):
+	print(546121)
+elif(num==740):
+	print(547600)
+elif(num==741):
+	print(549081)
+elif(num==742):
+	print(550564)
+elif(num==743):
+	print(552049)
+elif(num==744):
+	print(553536)
+elif(num==745):
+	print(555025)
+elif(num==746):
+	print(556516)
+elif(num==747):
+	print(558009)
+elif(num==748):
+	print(559504)
+elif(num==749):
+	print(561001)
+elif(num==750):
+	print(562500)
+elif(num==751):
+	print(564001)
+elif(num==752):
+	print(565504)
+elif(num==753):
+	print(567009)
+elif(num==754):
+	print(568516)
+elif(num==755):
+	print(570025)
+elif(num==756):
+	print(571536)
+elif(num==757):
+	print(573049)
+elif(num==758):
+	print(574564)
+elif(num==759):
+	print(576081)
+elif(num==760):
+	print(577600)
+elif(num==761):
+	print(579121)
+elif(num==762):
+	print(580644)
+elif(num==763):
+	print(582169)
+elif(num==764):
+	print(583696)
+elif(num==765):
+	print(585225)
+elif(num==766):
+	print(586756)
+elif(num==767):
+	print(588289)
+elif(num==768):
+	print(589824)
+elif(num==769):
+	print(591361)
+elif(num==770):
+	print(592900)
+elif(num==771):
+	print(594441)
+elif(num==772):
+	print(595984)
+elif(num==773):
+	print(597529)
+elif(num==774):
+	print(599076)
+elif(num==775):
+	print(600625)
+elif(num==776):
+	print(602176)
+elif(num==777):
+	print(603729)
+elif(num==778):
+	print(605284)
+elif(num==779):
+	print(606841)
+elif(num==780):
+	print(608400)
+elif(num==781):
+	print(609961)
+elif(num==782):
+	print(611524)
+elif(num==783):
+	print(613089)
+elif(num==784):
+	print(614656)
+elif(num==785):
+	print(616225)
+elif(num==786):
+	print(617796)
+elif(num==787):
+	print(619369)
+elif(num==788):
+	print(620944)
+elif(num==789):
+	print(622521)
+elif(num==790):
+	print(624100)
+elif(num==791):
+	print(625681)
+elif(num==792):
+	print(627264)
+elif(num==793):
+	print(628849)
+elif(num==794):
+	print(630436)
+elif(num==795):
+	print(632025)
+elif(num==796):
+	print(633616)
+elif(num==797):
+	print(635209)
+elif(num==798):
+	print(636804)
+elif(num==799):
+	print(638401)
+elif(num==800):
+	print(640000)
+elif(num==801):
+	print(641601)
+elif(num==802):
+	print(643204)
+elif(num==803):
+	print(644809)
+elif(num==804):
+	print(646416)
+elif(num==805):
+	print(648025)
+elif(num==806):
+	print(649636)
+elif(num==807):
+	print(651249)
+elif(num==808):
+	print(652864)
+elif(num==809):
+	print(654481)
+elif(num==810):
+	print(656100)
+elif(num==811):
+	print(657721)
+elif(num==812):
+	print(659344)
+elif(num==813):
+	print(660969)
+elif(num==814):
+	print(662596)
+elif(num==815):
+	print(664225)
+elif(num==816):
+	print(665856)
+elif(num==817):
+	print(667489)
+elif(num==818):
+	print(669124)
+elif(num==819):
+	print(670761)
+elif(num==820):
+	print(672400)
+elif(num==821):
+	print(674041)
+elif(num==822):
+	print(675684)
+elif(num==823):
+	print(677329)
+elif(num==824):
+	print(678976)
+elif(num==825):
+	print(680625)
+elif(num==826):
+	print(682276)
+elif(num==827):
+	print(683929)
+elif(num==828):
+	print(685584)
+elif(num==829):
+	print(687241)
+elif(num==830):
+	print(688900)
+elif(num==831):
+	print(690561)
+elif(num==832):
+	print(692224)
+elif(num==833):
+	print(693889)
+elif(num==834):
+	print(695556)
+elif(num==835):
+	print(697225)
+elif(num==836):
+	print(698896)
+elif(num==837):
+	print(700569)
+elif(num==838):
+	print(702244)
+elif(num==839):
+	print(703921)
+elif(num==840):
+	print(705600)
+elif(num==841):
+	print(707281)
+elif(num==842):
+	print(708964)
+elif(num==843):
+	print(710649)
+elif(num==844):
+	print(712336)
+elif(num==845):
+	print(714025)
+elif(num==846):
+	print(715716)
+elif(num==847):
+	print(717409)
+elif(num==848):
+	print(719104)
+elif(num==849):
+	print(720801)
+elif(num==850):
+	print(722500)
+elif(num==851):
+	print(724201)
+elif(num==852):
+	print(725904)
+elif(num==853):
+	print(727609)
+elif(num==854):
+	print(729316)
+elif(num==855):
+	print(731025)
+elif(num==856):
+	print(732736)
+elif(num==857):
+	print(734449)
+elif(num==858):
+	print(736164)
+elif(num==859):
+	print(737881)
+elif(num==860):
+	print(739600)
+elif(num==861):
+	print(741321)
+elif(num==862):
+	print(743044)
+elif(num==863):
+	print(744769)
+elif(num==864):
+	print(746496)
+elif(num==865):
+	print(748225)
+elif(num==866):
+	print(749956)
+elif(num==867):
+	print(751689)
+elif(num==868):
+	print(753424)
+elif(num==869):
+	print(755161)
+elif(num==870):
+	print(756900)
+elif(num==871):
+	print(758641)
+elif(num==872):
+	print(760384)
+elif(num==873):
+	print(762129)
+elif(num==874):
+	print(763876)
+elif(num==875):
+	print(765625)
+elif(num==876):
+	print(767376)
+elif(num==877):
+	print(769129)
+elif(num==878):
+	print(770884)
+elif(num==879):
+	print(772641)
+elif(num==880):
+	print(774400)
+elif(num==881):
+	print(776161)
+elif(num==882):
+	print(777924)
+elif(num==883):
+	print(779689)
+elif(num==884):
+	print(781456)
+elif(num==885):
+	print(783225)
+elif(num==886):
+	print(784996)
+elif(num==887):
+	print(786769)
+elif(num==888):
+	print(788544)
+elif(num==889):
+	print(790321)
+elif(num==890):
+	print(792100)
+elif(num==891):
+	print(793881)
+elif(num==892):
+	print(795664)
+elif(num==893):
+	print(797449)
+elif(num==894):
+	print(799236)
+elif(num==895):
+	print(801025)
+elif(num==896):
+	print(802816)
+elif(num==897):
+	print(804609)
+elif(num==898):
+	print(806404)
+elif(num==899):
+	print(808201)
+elif(num==900):
+	print(810000)
+elif(num==901):
+	print(811801)
+elif(num==902):
+	print(813604)
+elif(num==903):
+	print(815409)
+elif(num==904):
+	print(817216)
+elif(num==905):
+	print(819025)
+elif(num==906):
+	print(820836)
+elif(num==907):
+	print(822649)
+elif(num==908):
+	print(824464)
+elif(num==909):
+	print(826281)
+elif(num==910):
+	print(828100)
+elif(num==911):
+	print(829921)
+elif(num==912):
+	print(831744)
+elif(num==913):
+	print(833569)
+elif(num==914):
+	print(835396)
+elif(num==915):
+	print(837225)
+elif(num==916):
+	print(839056)
+elif(num==917):
+	print(840889)
+elif(num==918):
+	print(842724)
+elif(num==919):
+	print(844561)
+elif(num==920):
+	print(846400)
+elif(num==921):
+	print(848241)
+elif(num==922):
+	print(850084)
+elif(num==923):
+	print(851929)
+elif(num==924):
+	print(853776)
+elif(num==925):
+	print(855625)
+elif(num==926):
+	print(857476)
+elif(num==927):
+	print(859329)
+elif(num==928):
+	print(861184)
+elif(num==929):
+	print(863041)
+elif(num==930):
+	print(864900)
+elif(num==931):
+	print(866761)
+elif(num==932):
+	print(868624)
+elif(num==933):
+	print(870489)
+elif(num==934):
+	print(872356)
+elif(num==935):
+	print(874225)
+elif(num==936):
+	print(876096)
+elif(num==937):
+	print(877969)
+elif(num==938):
+	print(879844)
+elif(num==939):
+	print(881721)
+elif(num==940):
+	print(883600)
+elif(num==941):
+	print(885481)
+elif(num==942):
+	print(887364)
+elif(num==943):
+	print(889249)
+elif(num==944):
+	print(891136)
+elif(num==945):
+	print(893025)
+elif(num==946):
+	print(894916)
+elif(num==947):
+	print(896809)
+elif(num==948):
+	print(898704)
+elif(num==949):
+	print(900601)
+elif(num==950):
+	print(902500)
+elif(num==951):
+	print(904401)
+elif(num==952):
+	print(906304)
+elif(num==953):
+	print(908209)
+elif(num==954):
+	print(910116)
+elif(num==955):
+	print(912025)
+elif(num==956):
+	print(913936)
+elif(num==957):
+	print(915849)
+elif(num==958):
+	print(917764)
+elif(num==959):
+	print(919681)
+elif(num==960):
+	print(921600)
+elif(num==961):
+	print(923521)
+elif(num==962):
+	print(925444)
+elif(num==963):
+	print(927369)
+elif(num==964):
+	print(929296)
+elif(num==965):
+	print(931225)
+elif(num==966):
+	print(933156)
+elif(num==967):
+	print(935089)
+elif(num==968):
+	print(937024)
+elif(num==969):
+	print(938961)
+elif(num==970):
+	print(940900)
+elif(num==971):
+	print(942841)
+elif(num==972):
+	print(944784)
+elif(num==973):
+	print(946729)
+elif(num==974):
+	print(948676)
+elif(num==975):
+	print(950625)
+elif(num==976):
+	print(952576)
+elif(num==977):
+	print(954529)
+elif(num==978):
+	print(956484)
+elif(num==979):
+	print(958441)
+elif(num==980):
+	print(960400)
+elif(num==981):
+	print(962361)
+elif(num==982):
+	print(964324)
+elif(num==983):
+	print(966289)
+elif(num==984):
+	print(968256)
+elif(num==985):
+	print(970225)
+elif(num==986):
+	print(972196)
+elif(num==987):
+	print(974169)
+elif(num==988):
+	print(976144)
+elif(num==989):
+	print(978121)
+elif(num==990):
+	print(980100)
+elif(num==991):
+	print(982081)
+elif(num==992):
+	print(984064)
+elif(num==993):
+	print(986049)
+elif(num==994):
+	print(988036)
+elif(num==995):
+	print(990025)
+elif(num==996):
+	print(992016)
+elif(num==997):
+	print(994009)
+elif(num==998):
+	print(996004)
+elif(num==999):
+	print(998001)
+elif(num==1000):
+	print(1000000)
+else:
+	print("Invalid Number")
