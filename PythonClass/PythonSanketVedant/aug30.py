@@ -33,3 +33,14 @@
 # r = float(input("enter the radius of circle"))
 # a = 3.14*r*r
 # print("find the area of circle ",a)
+# --------------------------------------------------
+# name = input("Enter a name = ")
+# age = int(input("Enter a age = "))
+
+# print(f"my name is {name} and my age is {age} years old")
+
+
+a = int(input("Enter a number = "))
+b = int(input("Enter a number = "))
+
+print(f"{a} + {b} = {a+b}")
