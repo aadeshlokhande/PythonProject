@@ -12,7 +12,6 @@ for folder in folders:
     os.system("cd")
     print("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n\n")
 
-# cd /home/coder/Documents/MyProjects/Python\ Projects/python\ automation/GitManage && python3 main.py && cd
 
 # cd /media/coder/Linux\ Media/MyProjects/Python\ Projects/python\ automation/GitManage && python3 main.py && cd
 
