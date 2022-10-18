@@ -10,7 +10,7 @@ for folder in folders:
     print(folder)
     os.system(f'cd /media/coder/Linux\ Media/MyProjects/{folder} && git status && git add . && git commit -m "{Date}" && git push -u origin main')
     os.system("cd")
-    print("#########################################################################\n\n")
+    print("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n\n")
 
 # cd /home/coder/Documents/MyProjects/Python\ Projects/python\ automation/GitManage && python3 main.py && cd
 
