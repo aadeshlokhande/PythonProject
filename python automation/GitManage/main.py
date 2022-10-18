@@ -14,4 +14,3 @@ for folder in folders:
 
 
 # cd /media/coder/Linux\ Media/MyProjects/Python\ Projects/python\ automation/GitManage && python3 main.py && cd
-
