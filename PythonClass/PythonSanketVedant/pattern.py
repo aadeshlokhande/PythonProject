@@ -28,12 +28,20 @@ pattern = [
     ["########   ","     ##    ","    ##     ","   ##      ","  ##       "," ##        ","########   "],
 ]
 
-char = input("Enter a char = ").lower()
-
-alpha = " abcdefghijklmnopqrstuvwxyz"
-
-index = alpha.find(char)
-
+str = input("Enter a str = ").lower()
+length = len(str)
 for i in range(7):
-    print(pattern[index][i])
+    for j in range(length):
+        alpha = " abcdefghijklmnopqrstuvwxyz"
+        index = alpha.find(str)
+        print(pattern[j][i],end = "")
+    print()
     
+
+
+
+
+
+
+
+
