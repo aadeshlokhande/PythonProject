@@ -1,0 +1,146 @@
+SELECT * from sessionwithsumit.employees_data;
+
+SELECT first_name, last_name, salary, department_id 
+FROM sessionwithsumit.employees_data;
+
+SELECT COUNT(employee_id)
+from sessionwithsumit.employees_data;
+
+-- SELECT * from sessionwithsumit.churn_data_u;
+
+SELECT COUNT(*)
+from sessionwithsumit.churn_data_u;
+
+SELECT AVG(tenure)
+from sessionwithsumit.churn_data_u;
+
+
+SELECT sum(monthly_charges)
+from sessionwithsumit.churn_data_u;
+
+
+SELECT COUNT(*), AVG(tenure), SUM(monthly_charges), MIN(tenure), MAX(tenure)
+from sessionwithsumit.churn_data_u;
+
+
+-- employee data
+SELECT COUNT(*), AVG(salary), SUM(salary), MIN(salary), MAX(salary)
+from sessionwithsumit.employees_data;
+
+-- change column name 
+SELECT COUNT(*), AVG(salary) as avg_salary, SUM(salary) as sum_salary, MIN(salary) as min_salary, MAX(salary) as max_salary
+from sessionwithsumit.employees_data;
+
+
+-- filter 
+SELECT * FROM sessionwithsumit.employees_data;
+
+SELECT * 
+FROM sessionwithsumit.employees_data
+where department_id = 90;
+
+SELECT COUNT(*) 
+FROM sessionwithsumit.employees_data
+where department_id = 90;
+
+
+SELECT COUNT(*) 
+FROM sessionwithsumit.churn_data_u
+where Churn = 'Yes';
+
+
+SELECT avg(tenure) as avg_tenure, avg(monthly_charges) as avg_monthly_charges 
+FROM sessionwithsumit.churn_data_u
+where Churn = 'No';
+
+
+
+SELECT * from sessionwithsumit.churn_data_u;
+
+SELECT churn, COUNT(*)
+FROM sessionwithsumit.churn_data_u
+GROUP by churn;
+
+
+SELECT * from sessionwithsumit.churn_data_u;
+
+SELECT payment_method, avg(tenure)
+FROM sessionwithsumit.churn_data_u
+GROUP by payment_method
+order by avg(tenure) DESC;      -- decs = decending order
+
+
+SELECT payment_method , avg(tenure)
+FROM sessionwithsumit.churn_data_u
+GROUP by payment_method;
+
+      
+
+-- using  employee_data, 
+SELECT department_id , avg(salary)
+FROM sessionwithsumit.employees_data
+GROUP by department_id 
+order by AVG(salary) DESC;
+
+
+SELECT * from sessionwithsumit.employees_data;
+
+-- find department wise AVG salary, include only those employee having salary more than 10000
+SELECT * 
+from sessionwithsumit.employees_data
+where salary>10000;
+
+
+SELECT department_id,avg(salary)
+from sessionwithsumit.employees_data
+where salary>10000
+GROUP by department_id
+order by avg(salary) DESC;
+
+-- find payment method wise avg monthlycharges for churn='Yes' customers
+
+SELECT payment_method, AVG(monthly_charges)
+FROM sessionwithsumit.churn_data_u
+where churn = 'Yes'
+group by payment_method
+ORDER by avg(monthly_charges);
+
+
+-- find the contract type with highest number of churn = 'yes' customers.
+SELECT contract, COUNT(*)
+FROM sessionwithsumit.churn_data_u
+where churn = 'Yes'
+group by contract
+ORDER by count(*) DESC;
+
+
+-- if you want top 1 rows... thin use LIMIT 1
+SELECT contract, COUNT(*)
+FROM sessionwithsumit.churn_data_u
+where churn = 'Yes'
+group by contract
+ORDER by count(*) DESC
+LIMIT 1;
+
+SELECT * from sessionwithsumit.employees_data;
+
+-- find the department_id wise ave_salary but don't include the empolyee with manage_id = 0. sort the finel result in descending order of avg_salary
+SELECT department_id, AVG(salary)
+FROM sessionwithsumit.employees_data
+where manager_id  != 0 
+group by department_id
+ORDER by avg(salary) DESC
+LIMIT 1;
+
+
+-- find the number of customer with salary > 10000 and works for department_id = 90
+SELECT COUNT(*)
+FROM sessionwithsumit.employees_data
+where salary> 10000 and department_id = 90;
+
+
+-- using churn_data_u, find the number of churn = 'Yes' customers using month to monthcontract type 
+SELECT COUNT(*)
+FROM sessionwithsumit.churn_data_u
+where churn = 'Yes' and contract = 'Month-to-month';
+
