@@ -18,4 +18,10 @@
 # abstraction
 # encapsulation
 
+
 # error handling
+
+# import random
+# a = random.randint(0,10)
+# print(a)
+
