@@ -18,7 +18,9 @@ msgs = """ C Language Course At Just 999/-
 :- YOU HAVE TO COMPLETE YOUR FEES BEFORE 10 NOVEMBER
 :- MAKE PAYMENT AND UPLOAD THE SCREENSHOT
 :- FEES AMOUNT 999/- ONLY
-:- LINK : https://forms.gle/UjTx8gMzAupifL796"""
+:- LINK : https://forms.gle/UjTx8gMzAupifL796
+
+(If you have paid the fees then ignore this msg)"""
 
 
 # msgs = """C Programming Online Class
