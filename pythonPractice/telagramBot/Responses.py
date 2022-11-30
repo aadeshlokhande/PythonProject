@@ -1,19 +1,82 @@
 import calendar
 from datetime import datetime
-import cryptocompare
-import emojis
-import pyfiglet
-import pyshorteners
-import pywhatkit as kit
-import speedtest
-import wikipedia
-from covid import Covid
-from instagramy import InstagramUser as insta
-from number2words import Number2Words
-# from PyDictionary import PyDictionary
-from textblob import TextBlob
-from translate import Translator
+import os 
+
+os.system("pip install python-telegram-bot")
+try:
+    import cryptocompare
+except:
+    os.system("pip install cryptocompare")
+    import cryptocompare
+
+try:
+    import emojis
+except:
+    os.system("pip install emojis")
+    import emojis
+
+try:
+    import pyfiglet
+except:
+    os.system("pip install pyfiglet")
+    import pyfiglet
+
+try:
+    import pyshorteners
+except:
+    os.system("pip install pyshorteners")
+    import pyshorteners
+
+try:
+    import pywhatkit as kit
+except:
+    os.system("pip install pywhatkit")
+    import pywhatkit as kit
+
+try:
+    import speedtest
+except:
+    os.system("pip install speedtest-cli")
+    import speedtest
+
+try:
+    import wikipedia
+except:
+    os.system("pip install wikipedia")
+    import wikipedia
+
+try:
+    from covid import Covid
+except:
+    os.system("pip install covid")
+    from covid import Covid
+
+try:
+    from instagramy import InstagramUser as insta
+except:
+    os.system("pip install instagramy")
+    from instagramy import InstagramUser as insta
+
+try:
+    from number2words import Number2Words
+except:
+    os.system("pip install number2words")
+    from number2words import Number2Words
+
+try:
+    from textblob import TextBlob
+except:
+    os.system("pip install textblob")
+    from textblob import TextBlob
+
+try:
+    from translate import Translator
+except:
+    os.system("pip install translate")
+    from translate import Translator
+
 # from pythonLearn import python
+# from PyDictionary import PyDictionary
 
 
 def navigat(input_text):

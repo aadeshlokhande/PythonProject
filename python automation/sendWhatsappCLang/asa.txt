@@ -1,0 +1,25 @@
+aadesh 
+    slice               20000 B          11000
+    axis                15000 B          480 x 12 + 1000
+    sbi                 31000 B          0
+
+Shubham 
+    kotak               25000 B          
+    amazon              30000 B          3700 - january
+    flexpay             1000            1000
+    flipkart            1000            850
+    lazy pay            4000            512
+
+
+
+institute           15000
+sweety              5650
+data science        5600
+gold loan           1100
+mami                6000
+suryoday            4100
+
+
+
+
+
