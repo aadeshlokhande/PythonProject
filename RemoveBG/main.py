@@ -6,5 +6,3 @@ output = remove(input)
 output.save("remove.png")
 
 
-
-git status && git add . && git commit -m "msg" && git push origin -u main

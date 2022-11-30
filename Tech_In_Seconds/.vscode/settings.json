@@ -1,7 +1,0 @@
-{
-    "editor.fontSize": 30,
-    "terminal.integrated.fontSize": 24,
-    "editor.suggest.matchOnWordStartOnly": false,
-    "C_Cpp.suggestSnippets": false,
-    "C_Cpp.autocomplete": "Disabled"
-}
